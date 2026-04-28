@@ -33,34 +33,62 @@ def extract_doi(soup):
 # Abstract extraction
 # -----------------------------
 def extract_abstract(soup):
-    # 1. citation_abstract (best case)
+    # --- Strategy 1: High-quality full abstract containers
+    selectors = [
+        # Springer / Nature
+        {"name": "section", "attrs": {"class": re.compile("Abstract", re.I)}},
+        {"name": "div", "attrs": {"class": re.compile("Abstract", re.I)}},
+
+        # IEEE
+        {"name": "div", "attrs": {"class": re.compile("abstract-text", re.I)}},
+
+        # ACM
+        {"name": "div", "attrs": {"class": re.compile("abstractSection", re.I)}},
+
+        # Generic
+        {"name": "section", "attrs": {"id": re.compile("abstract", re.I)}},
+        {"name": "div", "attrs": {"id": re.compile("abstract", re.I)}},
+    ]
+
+    for sel in selectors:
+        tag = soup.find(sel["name"], attrs=sel["attrs"])
+        if tag:
+            text = tag.get_text(separator=" ", strip=True)
+
+            # Heuristic: avoid truncated abstracts
+            if len(text) > 300:
+                return clean_text(text)
+
+    # --- Strategy 2: paragraphs inside abstract sections
+    abstract_sections = soup.find_all(
+        ["section", "div"],
+        attrs={"class": re.compile("abstract", re.I)}
+    )
+
+    for sec in abstract_sections:
+        paragraphs = sec.find_all("p")
+        if paragraphs:
+            text = " ".join(p.get_text(strip=True) for p in paragraphs)
+            if len(text) > 300:
+                return clean_text(text)
+
+    # --- Strategy 3: citation_abstract (often truncated)
     tag = soup.find("meta", attrs={"name": "citation_abstract"})
     if tag and tag.get("content"):
-        return clean_text(tag.get("content"))
+        text = tag.get("content")
+        if len(text) > 300:
+            return clean_text(text)
 
-    # 2. generic meta tags
+    # --- Strategy 4: fallback meta
     for name in ["description", "dc.description", "og:description"]:
         tag = soup.find("meta", attrs={"name": name}) or \
               soup.find("meta", attrs={"property": name})
         if tag and tag.get("content"):
-            return clean_text(tag.get("content"))
-
-    # 3. common HTML patterns
-    selectors = [
-        {"name": "div", "class_": re.compile("abstract", re.I)},
-        {"name": "section", "class_": re.compile("abstract", re.I)},
-        {"name": "p", "class_": re.compile("abstract", re.I)},
-    ]
-
-    for sel in selectors:
-        tag = soup.find(sel["name"], class_=sel["class_"])
-        if tag:
-            text = tag.get_text(separator=" ", strip=True)
-            if len(text) > 50:
+            text = tag.get("content")
+            if len(text) > 300:
                 return clean_text(text)
 
     return None
-
 
 def clean_text(text):
     if not text:
