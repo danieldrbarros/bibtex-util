@@ -7,7 +7,9 @@ import re
 INPUT_CSV = "input.csv"
 OUTPUT_BIB = "output.bib"
 
-HEADERS = {"User-Agent": "Mozilla/5.0"}
+HEADERS = {
+    "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120 Safari/537.36"
+}
 
 
 # -----------------------------
@@ -17,13 +19,42 @@ def first_or_none(lst):
     return lst[0] if lst else None
 
 
+def normalize_doi(doi):
+    if not doi:
+        return None
+    doi = doi.strip()
+    doi = re.sub(r"https?://(dx\.)?doi\.org/", "", doi, flags=re.I)
+    return doi
+
+
+def extract_doi_from_row(row):
+    if "DOI" in row and row["DOI"].strip():
+        return normalize_doi(row["DOI"])
+    return None
+
+
+def resolve_url(row):
+    # Keep compatibility with existing logic
+    if "URL" in row and row["URL"].strip():
+        return row["URL"].strip()
+
+    if "DOI" in row and row["DOI"].strip():
+        raw = row["DOI"].strip()
+
+        if raw.lower().startswith("http"):
+            return raw
+
+        doi = normalize_doi(raw)
+        return f"https://doi.org/{doi}"
+
+    return None
+
+
 def extract_doi(soup):
-    # Try meta tags first
     doi = soup.find("meta", attrs={"name": "citation_doi"})
     if doi:
         return doi.get("content")
 
-    # Regex fallback
     text = soup.get_text()
     match = re.search(r"10\.\d{4,9}/[-._;()/:A-Z0-9]+", text, re.I)
     return match.group(0) if match else None
@@ -33,19 +64,11 @@ def extract_doi(soup):
 # Abstract extraction
 # -----------------------------
 def extract_abstract(soup):
-    # --- Strategy 1: High-quality full abstract containers
     selectors = [
-        # Springer / Nature
         {"name": "section", "attrs": {"class": re.compile("Abstract", re.I)}},
         {"name": "div", "attrs": {"class": re.compile("Abstract", re.I)}},
-
-        # IEEE
         {"name": "div", "attrs": {"class": re.compile("abstract-text", re.I)}},
-
-        # ACM
         {"name": "div", "attrs": {"class": re.compile("abstractSection", re.I)}},
-
-        # Generic
         {"name": "section", "attrs": {"id": re.compile("abstract", re.I)}},
         {"name": "div", "attrs": {"id": re.compile("abstract", re.I)}},
     ]
@@ -54,12 +77,9 @@ def extract_abstract(soup):
         tag = soup.find(sel["name"], attrs=sel["attrs"])
         if tag:
             text = tag.get_text(separator=" ", strip=True)
-
-            # Heuristic: avoid truncated abstracts
             if len(text) > 300:
                 return clean_text(text)
 
-    # --- Strategy 2: paragraphs inside abstract sections
     abstract_sections = soup.find_all(
         ["section", "div"],
         attrs={"class": re.compile("abstract", re.I)}
@@ -72,23 +92,14 @@ def extract_abstract(soup):
             if len(text) > 300:
                 return clean_text(text)
 
-    # --- Strategy 3: citation_abstract (often truncated)
     tag = soup.find("meta", attrs={"name": "citation_abstract"})
     if tag and tag.get("content"):
         text = tag.get("content")
         if len(text) > 300:
             return clean_text(text)
 
-    # --- Strategy 4: fallback meta
-    for name in ["description", "dc.description", "og:description"]:
-        tag = soup.find("meta", attrs={"name": name}) or \
-              soup.find("meta", attrs={"property": name})
-        if tag and tag.get("content"):
-            text = tag.get("content")
-            if len(text) > 300:
-                return clean_text(text)
-
     return None
+
 
 def clean_text(text):
     if not text:
@@ -98,21 +109,23 @@ def clean_text(text):
 
 
 # -----------------------------
-# CrossRef enrichment
+# CrossRef (PRIMARY)
 # -----------------------------
 def fetch_crossref_bibtex(doi):
     try:
         url = f"https://api.crossref.org/works/{doi}/transform/application/x-bibtex"
         r = requests.get(url, headers=HEADERS, timeout=10)
+
         if r.status_code == 200:
             return r.text
-    except:
-        pass
+    except Exception as e:
+        print(f"  ⚠️ CrossRef error: {e}")
+
     return None
 
 
 # -----------------------------
-# Build BibTeX
+# Build BibTeX (fallback)
 # -----------------------------
 def build_bibtex_from_meta(meta, url, abstract=None):
     title = first_or_none(meta.get("citation_title", []))
@@ -125,12 +138,6 @@ def build_bibtex_from_meta(meta, url, abstract=None):
     if date:
         year = date[:4]
 
-    volume = first_or_none(meta.get("citation_volume", []))
-    number = first_or_none(meta.get("citation_issue", []))
-    pages = first_or_none(meta.get("citation_firstpage", []))
-    doi = first_or_none(meta.get("citation_doi", []))
-    publisher = first_or_none(meta.get("citation_publisher", []))
-
     entry_type = "article" if journal else "inproceedings" if booktitle else "misc"
     key = f"auto_{abs(hash(url))}"
 
@@ -140,11 +147,6 @@ def build_bibtex_from_meta(meta, url, abstract=None):
         "journal": journal,
         "booktitle": booktitle,
         "year": year,
-        "volume": volume,
-        "number": number,
-        "pages": pages,
-        "publisher": publisher,
-        "doi": doi,
         "url": url,
         "abstract": abstract
     }
@@ -159,38 +161,16 @@ def build_bibtex_from_meta(meta, url, abstract=None):
 
 
 # -----------------------------
-# Main extraction logic
+# Scraping fallback
 # -----------------------------
 def fetch_bibtex(url):
     try:
-        r = requests.get(url, headers=HEADERS, timeout=10)
-        if r.status_code != 200:
-            return None, f"HTTP {r.status_code}"
-
+        r = requests.get(url, headers=HEADERS, timeout=10, allow_redirects=True)
         soup = BeautifulSoup(r.text, "html.parser")
 
-        # --- Extract abstract early
         abstract = extract_abstract(soup)
 
-        # --- Strategy 1: direct BibTeX
-        for pre in soup.find_all("pre"):
-            txt = pre.get_text()
-            if "@article" in txt or "@inproceedings" in txt:
-                # Inject abstract if missing
-                if abstract and "abstract" not in txt.lower():
-                    txt = txt.rstrip("}\n") + f",\n  abstract = {{{abstract}}}\n}}"
-                return txt.strip(), None
-
-        # --- Strategy 2: DOI → CrossRef
-        doi = extract_doi(soup)
-        if doi:
-            crossref_bib = fetch_crossref_bibtex(doi)
-            if crossref_bib:
-                if abstract and "abstract" not in crossref_bib.lower():
-                    crossref_bib = crossref_bib.rstrip("}\n") + f",\n  abstract = {{{abstract}}}\n}}"
-                return crossref_bib.strip(), None
-
-        # --- Strategy 3: meta tags
+        # Try metadata
         meta = {}
         for tag in soup.find_all("meta"):
             name = tag.get("name")
@@ -218,30 +198,37 @@ def main():
     with open(INPUT_CSV, newline='', encoding="utf-8") as f:
         reader = csv.DictReader(f)
 
-        if "URL" not in reader.fieldnames:
-            raise ValueError("CSV must contain a 'URL' column")
-
         for row in reader:
             total += 1
-            url = row["URL"].strip()
+            print(f"[{total}] Processing")
 
-            print(f"[{total}] {url}")
+            doi = extract_doi_from_row(row)
+            url = resolve_url(row)
 
-            bib, err = fetch_bibtex(url)
+            bib = None
+            err = None
+
+            # --- PRIMARY: CrossRef
+            if doi:
+                print(f"  → trying CrossRef (DOI: {doi})")
+                bib = fetch_crossref_bibtex(doi)
+
+            # --- FALLBACK: scraping
+            if not bib and url:
+                print(f"  → fallback scraping: {url}")
+                bib, err = fetch_bibtex(url)
 
             if bib:
                 entries.append(bib)
                 success += 1
             else:
-                failures.append((url, err))
+                failures.append((url or doi, err or "No metadata found"))
 
             time.sleep(1)
 
-    # Write output
     with open(OUTPUT_BIB, "w", encoding="utf-8") as f:
         f.write("\n\n".join(entries))
 
-    # Validation
     print("\n=== SUMMARY ===")
     print(f"CSV rows: {total}")
     print(f"BibTeX entries: {success}")

@@ -1,0 +1,1442 @@
+TY  - GEN
+M3  - Clinical Trial
+Y1  - 2026
+JF  - clinicaltrials.gov
+JO  - clinicaltrials.gov
+UR  - https://www.embase.com/search/results?subaction=viewrecord&id=LNCT07533331&from=export
+U2  - LNCT07533331
+U3  - 2026-04-23
+U4  - 2026-04-23
+L2  - https://clinicaltrials.gov/study/NCT07533331
+T1  - Pilot Test the Digital Intervention and Research Protocols in a Small Clinical Trial
+LA  - English
+KW  - social isolation
+KW  - chatbot
+KW  - behavioral intervention
+KW  - mobile phone
+KW  - unemployment
+KW  - goal attainment
+KW  - text messaging
+KW  - personal support
+KW  - World Health Organization
+KW  - coaching
+KW  - knowledge gap
+KW  - research protocol
+KW  - human
+KW  - autism
+KW  - depression
+KW  - mental disease
+KW  - developmental disorder
+KW  - distress syndrome
+KW  - groups by age
+KW  - counselor
+KW  - adolescent
+KW  - male
+KW  - child
+KW  - adult
+KW  - young adult
+KW  - female
+KW  - friend
+KW  - neurotypical person
+KW  - digital health
+KW  - consultation
+KW  - quality of life
+KW  - outcome assessment
+KW  - self report
+KW  - patient-reported outcome
+KW  - awareness
+KW  - self concept
+KW  - motivation
+KW  - participation
+KW  - evidence based practice
+KW  - intervention study
+KW  - clinical trial
+KW  - anxiety
+KW  - emotional stress
+KW  - mental health
+KW  - single blind procedure
+KW  - parallel design
+KW  - randomized controlled trial
+KW  - empathy
+KW  - effect size
+KW  - clinical trial
+KW  - controlled study
+KW  - clinical article
+KW  - pilot study
+KW  - therapy
+N2  - Brief Summary
+There is a need and opportunity to improve the supports, transitions, and life outcomes of people with autism spectrum disorder. Compared to their neurotypical peers, autistic teenagers and adults report poorer mental health and quality of life and have higher rates of unemployment or underemployment and low participation in post-secondary education. Nearly 40% spend little or no time with friends. Although autism awareness has grown considerably in recent decades, much more can be done to improve the life outcomes for people with autism. Cost-effective, affordable and scalable support systems are needed as well as ongoing assessments and personalized support plans that focus on individual strengths and challenges in different contexts (college, work, community life) across the life span. This requires adaptive interventions and regular consultation with and between stakeholders. It also requires a rigorous approach to measuring outcomes that are not one-size-fits-all and do not expect everyone to reach, or have, the same goals. To meet these needs, the investigators leverage an already successful technology platform with two conversational-relational agents to be a digital companion and coach to autistic young adults (AYA, ages 18 to 35 years). The technology will be used to scale a strong theoretical and conceptual approach that has proven successful in meeting the individual needs and personalized outcomes of autistic students through a collaborative consultation model for promoting competency and success (COMPASS) combined with Goal Attainment Scaling (GAS). To deliver personalized coaching, empathy, and outcomes at scale, GAS/COMPASS was translated into software-driven evidence-based coaching protocols in collaboration with clinical, academic, and community partners. In this study, the digital coaching program and all research protocols are pilot tested in a 10-week experiential trial with AYA.
+Detailed Description
+There is a need and opportunity to improve the supports, transitions, and life outcomes of people with autism spectrum disorder (ASD). Autism affects about 5.4 million adults in America (2.2% or 1 in 45 adults) and at least 78 million people and their families worldwide.1,2 Estimates for children are similar (1 in 44). Classified as a neurodevelopmental disorder, autism typically manifests in early childhood before the age of 3 years and affects social and communication skills, behavior, and outcomes throughout the life span. Teenagers and adults with autism have higher rates of unemployment or underemployment, low participation in post-secondary education, and nearly 40% spend little or no time with friends. Although awareness and scientific interest has grown significantly over the past 20 years, many children and adults are not diagnosed until later in life and much more can be done to improve the life outcomes for people with autism. Large knowledge gaps exist, such as what support strategies are effective for whom and when, and which ones have long-term and meaningful impact. Essentially, the mechanisms of positive change in autism, both behavioral and neurobiological, are largely unknown. Because autism has major implications for lifelong outcomes, cost-effective, affordable and scalable support systems are key, yet missing for many individuals and families. Given that autism is a complex, heterogenous developmental condition that changes with and affects development, The Lancet Commission on the future of care and clinical research in autism recently stated that single assessments and treatments are never sufficient in ASD. Ongoing assessments and personalized supports that focus on individual strengths and challenges in different contexts across the life span are needed. Meanwhile, autistic people, their family members and community organizations have called for greater emphasis on enhancing quality of life (QOL). The World Health Organization (WHO) defines QOL as "an individual's perception of their position in life in the context of the culture and value systems in which they live and in relation to their goals, expectations, standards, and concerns". In response, investigators at the Center for Autism Research Center at Children's Hospital of Philadelphia leveraged the patient reported outcome measurement information system (PROMIS) developed by the NIH to comprehensively assess QOL in autism, across age groups and genders. The PROMIS Autism Battery (PAB) includes 18 self-report scales for adults that show profound differences between autistic and neurotypical adult samples across virtually all PAB domains, including subjective wellbeing (SWB), relationships (including supports, companionship and social isolation), emotional distress (including anxiety and depression), health (including sleep and mental health), and adulthood (including self-efficacy). In response to these needs and to NIMH's special topic of interest to "Develop and test new and augment existing digital health interventions that are personalized, engaging, adaptive, sufficiently challenging, and optimal for maximizing real world functional improvements," Friendi.fi Corporation (Friendi.fi) is leveraging its AI-driven technology platform and conversational agent that works on mobile phones through standard SMS (Short Message Service) texting, to be a mobile digital companion to autistic people in early adulthood. The platform and agent is used to scale a strong theoretical and conceptual approach that has proven successful in meeting the individual needs and targeted outcomes of autistic students through a collaborative model for promoting competence and success (COMPASS) combined with Goal Attainment Scaling (GAS). COMPASS considers the challenges and strengths of the individual and environment, as well as the balance between them. Critically, the role of the environment as an enabler (support) or barrier (challenge) to success lowers the burden on autistic individuals as a source of dysfunction. In this model, technology is viewed as an environmental support that builds on the strengths, needs, and goals of the individual. AYA will be enrolled in a 10-week experiential trial using the novel digital coaching program and agent. The trial serves several purposes: (1) It will test the preliminary efficacy of the digital intervention by assessing within-person change over time. The trial is powered to detect a minimal important change (MIC) in the proposed standardized and normalized PAB measures; (2) The observed effect size will be used to finalize the sample size calculation for a properly-powered future randomized control trial (RCT); (3) By including a control group, the feasibility of all clinical and study protocols is tested prior to implementing the RCT. Twenty-six AYA will receive daily coaching via the digital agents (AGENT group) and twelve will receive traditional coaching using face-to-face meetings with human counselors (CONTROL group). In both groups, intervention delivery and patient-reported outcomes data are collected.
+ER  - 
+
+TY  - JOUR
+M3  - Article
+Y1  - 2026
+VL  - 30
+IS  - 1
+SP  - 176
+EP  - 186
+SN  - 1461-7005
+SN  - 1362-3613
+JF  - Autism
+JO  - Autism
+UR  - https://www.embase.com/search/results?subaction=viewrecord&id=L2041171645&from=export
+U2  - L2041171645
+C5  - 41420522
+DB  - Embase
+DB  - Medline
+U3  - 2025-10-28
+U4  - 2025-12-29
+L2  - http://dx.doi.org/10.1177/13623613251375199
+DO  - 10.1177/13623613251375199
+A1  - A, N.
+A1  - V, S.
+M1  - (A N., nithyaa@mrkit.in) MRK Institute of Technology, India
+M1  - (V S.) VIT Bhopal University, India
+AD  - N. A, Department of Electronics and Communication Engineering, MRK Institute of Technology, Kattumannarkoil, Tamil Nadu, Cuddalore, India
+T1  - Autism spectrum disorder–level prediction and personalized education planning using TabNet
+LA  - English
+KW  - data analysis software
+KW  - Python-3.10
+KW  - area under the curve
+KW  - article
+KW  - attention
+KW  - autism
+KW  - communication skill
+KW  - cross validation
+KW  - diagnostic test accuracy study
+KW  - disease severity
+KW  - human
+KW  - learning
+KW  - personalized education planning
+KW  - planning
+KW  - prediction
+KW  - receiver operating characteristic
+KW  - sensitivity and specificity
+KW  - social interaction
+KW  - teaching
+KW  - Python-3.10
+C3  - Python-3.10
+N2  - Students with autism spectrum disorder have an impact on their social, communication, and behavioral skills. Existing studies primarily focus on autism detection and diagnosis but lack effective approaches for predicting autism spectrum disorder levels and linking them to personalized educational strategies. This research aims to develop an autism-level categorization and a tailored education plan recommendation system for autistic students. The proposed methodology involves collecting a data set with attributes such as verbal ability, social interaction, sensory sensitivity, and attention span for students with autism spectrum disorder. These features are preprocessed and used to train a TabNet model to categorize the autism level. The system recommends a personalized education plan through a web application, based on prediction. This study uniquely integrates autism spectrum disorder-level prediction with education planning, achieving an accuracy of 99.37% and precision of 98.91% using the Autism Spectrum Classification for Education Planning data set. This shows the proposed model effectively categorizes autism levels and provides an education plan recommendation system for autistic students. Lay abstract: Autism spectrum disorder (ASD) is a critical neurodevelopmental disorder affecting the social and communication skills of autistic students. People with autism spectrum disorder can have different levels of support needs in daily life; understanding these levels is important for providing a correct educational plan for autistic students. We develop a system that predicts the level of support needed for a student and then recommends a personalized educational plan. The system uses information such as the student’s verbal communication skills, social interaction abilities, sensory sensitivity, and attention span. After predicting the level, the system applies a predefined set of rules to suggest specific teaching methods. These are utilized in matching the abilities and needs of the autistic students to study effectively. We developed an interactive web application that enables parents or teachers to input a student’s details and obtain both the support level and personalized learning suggestions. The outcome indicates that the method combines early and correct autism spectrum disorder–level prediction with practical teaching methods, making education more personalized and effective for autistic students.
+ER  - 
+
+TY  - JOUR
+M3  - Article
+Y1  - 2025
+VL  - 12
+IS  - 4
+SP  - 830
+EP  - 843
+SN  - 2345-5837
+SN  - 2345-5829
+JF  - Frontiers in Biomedical Technologies
+JO  - Front. Biomed. Technol.
+UR  - https://www.embase.com/search/results?subaction=viewrecord&id=L2041019113&from=export
+U2  - L2041019113
+DB  - Embase
+U3  - 2025-10-23
+U4  - 2025-10-27
+L2  - http://dx.doi.org/10.18502/fbt.v12i4.19819
+DO  - 10.18502/fbt.v12i4.19819
+A1  - Navaei, P.
+A1  - Khadem, A.
+A1  - Zaferani, E.J.
+M1  - (Navaei P.; Khadem A., alikhadem@kntu.ac.ir) Department of Biomedical Engineering, Faculty of Electrical Engineering, K. N. Toosi University of Technology, Tehran, Iran
+M1  - (Zaferani E.J.) Faculty of Computer Engineering, K. N. Toosi University of Technology, Tehran, Iran
+AD  - A. Khadem, Department of Biomedical Engineering, Faculty of Electrical Engineering, K. N. Toosi University of Technology, Tehran, Iran
+T1  - Comparing Functional and Effective Connectivity Features in Diagnosis of Autism Spectrum Disorder Using Stacked Autoencoder by Resting-State fMRI Data
+LA  - English
+KW  - accuracy
+KW  - adolescent
+KW  - adult
+KW  - article
+KW  - autism
+KW  - autoencoder
+KW  - child
+KW  - classifier
+KW  - controlled study
+KW  - correlation coefficient
+KW  - deep neural network
+KW  - diagnostic test accuracy study
+KW  - functional connectivity
+KW  - functional magnetic resonance imaging
+KW  - functional neuroimaging
+KW  - human
+KW  - information processing
+KW  - middle aged
+KW  - motion correction algorithm
+KW  - multilayer perceptron
+KW  - normal human
+KW  - perceptron
+KW  - sensitivity and specificity
+KW  - social interaction
+KW  - stacked autoencoder
+N2  - Purpose: The objective of this paper is to study the feasibility of using effective connectivity (Granger Causality) (GC) obtained from resting-state functional Magnetic Resonance Imaging (rs-fMRI) data and stacked autoencoder for diagnosing Autism Spectrum Disorder (ASD) and comparing the results with those obtained using functional connectivity (Pearson Correlation Coefficient) (PCC). ASD affects the normal development of the brain in the field of social interactions and communication skills. Because diagnosing ASD using behavioral symptoms is a time-consuming subjective process that needs the exact collaboration of the ASD subject or his/her relatives, in recent years diagnosing ASD using resting-state functional neuroimaging modalities like rs-fMRI, has been taken into consideration. Materials and Methods: We used rs-fMRI data and compared the use of functional and effective connectivity features using an autoencoder to classify people with ASD from healthy subjects. We used ABIDE dataset and divided the brain into 100 regions using the Harvard-Oxford (HO) Atlas. We calculated the PCC in classification using functional connectivity, and we calculated the GC in classification using effective connectivity. We used a stacked autoencoder to reduce the dimension of feature-space and a multi-layered perceptron (MLP) neural network as a classifier in both classifications. Results: We achieved an accuracy of 67.8%, a sensitivity of 68.5%, and a specificity of 66.6% in classification using functional connectivity, and we achieved an accuracy of 67.6%, a sensitivity of 73.1%, and a specificity of 60.8% in classification using effective connectivity. Conclusion: Although the accuracy obtained using functional and effective connectivity are almost similar, the sensitivity is notably higher using effective connectivity. Since sensitivity is more important than specificity in the medical diagnosis, it seems that using effective connectivity features may outperform the ASD diagnosis in practice. The purpose of this paper is to diagnose ASD using effective connectivity measures and deep neural network by rs-fMRI data, but we compare its results with functional connectivity measures. As far as we know, this is the first time that Granger Causality (GC) and stacked autoencoder have been used to diagnose ASD together.
+ER  - 
+
+TY  - JOUR
+M3  - Conference Abstract
+Y1  - 2025
+VL  - 99
+SP  - 106
+SN  - 1873-7862
+SN  - 0924-977X
+JF  - European Neuropsychopharmacology
+JO  - Eur. Neuropsychopharmacol.
+UR  - https://www.embase.com/search/results?subaction=viewrecord&id=L2040786590&from=export
+U2  - L2040786590
+DB  - Embase
+U4  - 2025-10-10
+L2  - http://dx.doi.org/10.1016/j.euroneuro.2025.08.563
+DO  - 10.1016/j.euroneuro.2025.08.563
+A1  - Tan, Q.
+A1  - Xie, J.
+A1  - Snyder, L.G.
+A1  - Snyder, L.G.
+A1  - Fernandez, B.
+A1  - Fernandez, B.
+A1  - Mancuso, N.
+A1  - Chiang, C.
+A1  - Shu, C.
+M1  - (Tan Q.; Xie J.; Mancuso N.; Chiang C.; Shu C.) Center for Genetic Epidemiology, Keck School of Medicine, University of Southern California, Los Angeles, United States
+M1  - (Snyder L.G.) Boston Children's Hospital, United States
+M1  - (Snyder L.G.) Simons Foundation Autism Research Initiative, Simons Foundation, United States
+M1  - (Fernandez B.) Children's Hospital Los Angeles, The Saban Research Institute, United States
+M1  - (Fernandez B.) Keck School of Medicine, University of Southern California, United States
+T1  - 96. MACHINE LEARNING-DERIVED SUBTYPES OF AUTISM REVEAL DISTINCT GENETIC CONTRIBUTIONS FROM COMMON AND RARE VARIANTS
+LA  - English
+KW  - adolescent
+KW  - autism
+KW  - child
+KW  - cohort analysis
+KW  - comorbidity
+KW  - conference abstract
+KW  - diagnosis
+KW  - dimensionality reduction
+KW  - disease severity
+KW  - drug therapy
+KW  - heritability
+KW  - human
+KW  - k nearest neighbor
+KW  - language ability
+KW  - learning
+KW  - machine learning
+KW  - major clinical study
+KW  - mood disorder
+KW  - phenotype
+KW  - social cognition
+KW  - unsupervised machine learning
+N2  - Background: Autism spectrum disorder (ASD) is characterized by substantial heterogeneity in core symptom severity and co-occurring conditions, complicating efforts to understand its genetic basis. Most genetic studies rely on binary case-control ASD definitions, which may obscure the underlying biological differences and the diverse genetic contributions across ASD subtypes. Methods: We constructed ASD subtypes and corresponding continuous subtype scores by using Discriminative Dimensionality Reduction via learning a Tree (DDRTree), an unsupervised machine learning clustering approach that projects data into a reduced-dimensional space while constructing a principal tree that captures the intrinsic structure of the data. We applied this method to 14 key ASD clinical traits including assessing social, cognitive, behavioral scores and comorbidity among 6,355 ASD children in the Simons Foundation Powering Autism Research for Knowledge (SPARK). We also projected individuals from the Simons Simplex Collection (SSC; N = 1,403) onto the SPARK-derived subtype structure using a k-nearest neighbors (k-NN) approach. We compared the burden of de novo loss-of-function (LoF) variants and SNP-based heritability across ASD subtypes in SPARK and SSC. Results: We identified three distinct ASD subtypes: Subtype 1 represents the most severely affected group, with highest therapy needs especially in language skills; Subtype 2 shows high comorbidity with mood disorders, with specific needs in medication and mood regulation; Subtype 3 is the least affected group with lowest support needs. Projected ASD subtypes in SSC showed similar clinical profiles as SPARK, supporting the generalizability of our model. The de novo LoF burden is consistently higher in Subtype 1 and 2 as compared with Subtype 3 in SPARK and SSC. The SNP heritability of the continuous Subtype 1 and 2 scores was 0.163 (SE = 0.053) and 0.129 (SE = 0.049) respectively, which are higher than SNP heritability of 0.118 observed for the binary ASD diagnosis. Discussion: We demonstrate that DDRTree can construct clinically meaningful ASD subtypes and continuous ASD subtype scores that capture both core and co-occurring symptoms. These subtypes are genetically distinct, supported by de novo LoF burden and SNP heritability analysis. Our findings highlight the potential of machine learning approaches in dissecting ASD heterogeneity and linking clinical phenotypes to common and rare variants.
+ER  - 
+
+TY  - JOUR
+M3  - Review
+Y1  - 2025
+VL  - 15
+IS  - 8
+SN  - 2076-3425
+JF  - Brain Sciences
+JO  - Brain Sci.
+UR  - https://www.embase.com/search/results?subaction=viewrecord&id=L2035887434&from=export
+U2  - L2035887434
+DB  - Embase
+U3  - 2025-09-02
+U4  - 2025-09-05
+L2  - http://dx.doi.org/10.3390/brainsci15080806
+DO  - 10.3390/brainsci15080806
+A1  - Paglialunga, A.
+A1  - Melogno, S.
+M1  - (Paglialunga A., andreapaglialunga@hotmail.it; Melogno S., sergio.melogno@unicusano.it) Department of Economic, Psychological, Communication, Education and Motor Sciences, Università Degli Studi Niccolò Cusano, Rome, Italy
+AD  - A. Paglialunga, Department of Economic, Psychological, Communication, Education and Motor Sciences, Università Degli Studi Niccolò Cusano, Rome, Italy
+T1  - The Effectiveness of Artificial Intelligence-Based Interventions for Students with Learning Disabilities: A Systematic Review
+LA  - English
+KW  - artificial intelligence
+KW  - assistive technology
+KW  - autism
+KW  - cognition
+KW  - demographics
+KW  - DSM-IV
+KW  - dyslexia
+KW  - educational technology
+KW  - human
+KW  - large language model
+KW  - learning disorder
+KW  - meta analysis
+KW  - Preferred Reporting Items for Systematic Reviews and Meta-Analyses
+KW  - randomized controlled trial (topic)
+KW  - review
+KW  - special education
+KW  - student
+KW  - systematic review
+N2  - Background/Objectives: While artificial intelligence (AI) is rapidly transforming education, its specific effectiveness for students with learning disabilities (LD) requires rigorous evaluation. This systematic review aims to assess the efficacy of AI-based educational interventions for students with LD, with a specific focus on the methodological quality and risk of bias of the available evidence. Methods: A systematic search was conducted across seven major databases (Google Scholar, ScienceDirect, APA PsycInfo, ERIC, Scopus, PubMed) for experimental studies published between 2022 and 2025. This review followed PRISMA guidelines, using the PICOS framework for inclusion criteria. A formal risk of bias assessment was performed using the ROBINS-I and JBI critical appraisal tools. Results: Eleven studies (representing 10 independent experiments), encompassing 3033 participants, met the inclusion criteria. The most studied disabilities were dyslexia (six studies) and other specific learning disorders (three studies). Personalized/adaptive learning systems and game-based learning were the most common AI interventions. All 11 studies reported positive outcomes. However, the risk of bias assessment revealed significant methodological limitations: no studies were rated as having a low risk of bias, with most presenting a moderate (70%) to high/serious (30%) risk. Despite these limitations, quantitative results from the stronger studies showed large effect sizes, such as in arithmetic fluency (d = 1.63) and reading comprehension (d = −1.66). Conclusions: AI-based interventions demonstrate significant potential for supporting students with learning disabilities, with unanimously positive reported outcomes. However, this conclusion must be tempered by the considerable risk of bias and methodological weaknesses prevalent in the current literature. The limited and potentially biased evidence base warrants cautious interpretation. Future research must prioritize high-quality randomized controlled trials (RCTs) and longitudinal assessments to establish a definitive evidence base and investigate long-term effects, including the risk of cognitive offloading.
+ER  - 
+
+TY  - JOUR
+M3  - Article in Press
+Y1  - 2025
+SN  - 2047-3877
+SN  - 2047-3869
+JF  - International Journal of Developmental Disabilities
+JO  - Int. J.
+UR  - https://www.embase.com/search/results?subaction=viewrecord&id=L2036402004&from=export
+U2  - L2036402004
+DB  - Embase
+U3  - 2025-10-13
+L2  - http://dx.doi.org/10.1080/20473869.2025.2562953
+DO  - 10.1080/20473869.2025.2562953
+A1  - Khan, R.
+A1  - Yeasmin, S.
+A1  - Rony, M.K.K.
+A1  - Das, S.
+A1  - Semi, M.M.A.
+A1  - Islam, M.A.
+A1  - Sabeena, A.A.
+A1  - Samiun, M.
+A1  - Hasan, R.
+M1  - (Khan R.) Department of Special Education and Counseling, California State University Los Angeles, Los Angeles, CA, United States
+M1  - (Yeasmin S.) Department of Psychology, St. Francis College, New York, NY, United States
+M1  - (Rony M.K.K., mkkrony@yahoo.com) Miyan Research Institute, International University of Business Agriculture and Technology, Dhaka, Bangladesh
+M1  - (Das S.; Semi M.M.A.) Department of Education, Westcliff University, Irvine, CA, United States
+M1  - (Islam M.A.; Sabeena A.A.) Department of Business Administration, Westcliff University, Irvine, CA, United States
+M1  - (Samiun M.) Department of Business Administration, International American University, San Diego, CA, United States
+M1  - (Hasan R.) IEEE, Institute of Electrical and Electronics Engineers, Los Angeles, CA, United States
+AD  - M.K.K. Rony, Miyan Research Institute, International University of Business Agriculture and Technology, Dhaka, Bangladesh
+T1  - Applicability of artificial intelligence in monitoring and improving educational performance in children with autism: a narrative review
+LA  - English
+KW  - academic performance
+KW  - algorithm bias
+KW  - artificial intelligence
+KW  - autism
+KW  - chatbot
+KW  - child
+KW  - communication skill
+KW  - computer vision
+KW  - data privacy
+KW  - developmental disorder
+KW  - educational technology
+KW  - human
+KW  - inclusive education
+KW  - learning
+KW  - longitudinal study
+KW  - narrative
+KW  - review
+KW  - stakeholder participation
+KW  - student engagement
+KW  - systematic review
+KW  - Web of Science
+N2  - Objectives: This narrative review aims to explore the current applications of AI in monitoring and improving educational performance in children with autism, while identifying associated benefits, challenges, and research gaps. Methods: A narrative review design was employed to analyze peer-reviewed literature published between 2015 and 2025. A comprehensive search was conducted across PubMed, Scopus, Web of Science, IEEE Xplore, and ERIC using targeted keywords. Eligible studies focusing on the educational use of AI for children with autism were assessed through thematic synthesis. Results: Findings revealed that AI technologies, including intelligent tutoring systems, computer vision, and conversational agents, enhance educational engagement, communication skills, and academic outcomes among autistic learners. AI-enabled tools also support educators by offering real-time feedback and data-driven insights. However, barriers such as data privacy concerns, algorithmic bias, infrastructural limitations, and insufficient training hinder widespread adoption. Moreover, a lack of longitudinal studies and standardized outcome measures were noted. Conclusions: AI holds significant potential to transform autism education by promoting personalized and inclusive learning. However, ethical safeguards, stakeholder involvement, and sustained research efforts are essential to ensure effective, equitable, and responsible integration.
+ER  - 
+
+TY  - JOUR
+M3  - Article in Press
+Y1  - 2025
+SN  - 2047-3877
+SN  - 2047-3869
+JF  - International Journal of Developmental Disabilities
+JO  - Int. J.
+UR  - https://www.embase.com/search/results?subaction=viewrecord&id=L2036445017&from=export
+U2  - L2036445017
+DB  - Embase
+U3  - 2025-10-13
+L2  - http://dx.doi.org/10.1080/20473869.2025.2561160
+DO  - 10.1080/20473869.2025.2561160
+A1  - Yu, X.
+A1  - Ishiwata, T.
+A1  - Zhang, X.
+A1  - Zhang, D.
+A1  - Xu, L.
+A1  - Su, Y.
+A1  - Sha, X.
+M1  - (Yu X.; Zhang X.; Zhang D.; Xu L.; Su Y.) Shanghai Jiao Tong University School of Medicine, Shanghai, China
+M1  - (Ishiwata T.) Shanghai Caopeng Charity Foundation, Shanghai, China
+M1  - (Zhang D.) Shanghai Conservatory of Music, Shanghai, China
+M1  - (Sha X., shaviolin@126.com) Shanghai University School of Music, Shanghai, China
+AD  - X. Sha, Shanghai University School of Music, Shanghai, China
+T1  - ‘More than just music’: a multimodal intervention supporting adolescents with autism spectrum disorder in a community-based program in Shanghai
+LA  - English
+KW  - adolescent
+KW  - article
+KW  - autism
+KW  - checklist
+KW  - child
+KW  - child behavior
+KW  - clinical article
+KW  - emotion regulation
+KW  - female
+KW  - human
+KW  - language ability
+KW  - love
+KW  - male
+KW  - motor performance
+KW  - music
+KW  - music therapy
+KW  - parental stress
+KW  - participation
+KW  - randomized controlled trial
+KW  - rehabilitation
+KW  - self care
+KW  - sensory processing
+KW  - social interaction
+KW  - therapy
+KW  - vocation
+N2  - Objectives: Autism Spectrum Disorder (ASD) affects communication, social interaction, and emotional expression, requiring multifaceted interventions. While Music Therapy (MT) is widely applied, its integration with structured education, real-life social practice, and technology-assisted methods may further enhance its effectiveness. This study evaluates the MT Plus (MT+) model developed by the Shanghai Angel Autism Salon (SAAS), which integrates traditional MT with structured academic instruction (LOVE CLASSROOM), vocational social training (A-COFFEE), and AI-assisted digital art to support adolescents with ASD. Methods: Fifty-two adolescents with ASD participated in this intervention. Pre- and post-intervention outcomes were assessed using the Autism Behavior Checklist (ABC) and Parenting Stress Index–Short Form (PSI-SF). Independent t-tests and regression analyses were conducted to evaluated changes. Results: Significant improvements were observed in sensory processing, social interaction, motor skills, language, and self-care (Cohen’s d: 1.52–2.26), with the most substantial gain in self-care (88.42%). Parental stress and dysfunctional interactions decreased, particularly in child manageability (50.54%). AI-assisted components enhanced sensory outcomes (p = 0.005), and participation in A-COFFEE led to notable development in language skills (p = 0.040). Better child behavior was associated with lower parental stress (R2 = 0.325, p < 0.0001). Conclusions: The MT+ model presents a holistic, community-based approach to improving outcomes for adolescents with ASD. Further research using randomized controlled trials is recommended. These findings suggest that the MT+ intervention may offer a promising community-based model for enhancing social communication, emotional regulation, and adaptive functioning in adolescents with autism.
+ER  - 
+
+TY  - JOUR
+M3  - Article
+Y1  - 2025
+VL  - 7
+IS  - 10
+SP  - 95
+EP  - 104
+SN  - 2831-137X
+SN  - 2637-3270
+JF  - Multidisciplinarni Pristupi u Edukaciji i Rehabilitaciji
+JO  - Multidiscip. Pristup. Eduk. Rehabil.
+UR  - https://www.embase.com/search/results?subaction=viewrecord&id=L2037587438&from=export
+U2  - L2037587438
+DB  - Embase
+U3  - 2026-01-20
+U4  - 2026-01-22
+L2  - http://dx.doi.org/10.59519/mper7209
+DO  - 10.59519/mper7209
+A1  - Mujkanović, E.
+M1  - (Mujkanović E., edin.mujkanovic@irpo.ba) Pre-University Education Institute of Sarajevo Canton, Bosnia and Herzegovina
+AD  - E. Mujkanović, Pre-University Education Institute of Sarajevo Canton, Bosnia and Herzegovina
+T1  - The Application of Artificial Intelligence and Assistive Technology in Supporting Children with Developmental Disabilities
+LA  - English
+KW  - Educational software
+KW  - article
+KW  - artificial intelligence-assisted technology
+KW  - autism
+KW  - child
+KW  - communication skill
+KW  - developmental disorder
+KW  - human
+KW  - integration
+KW  - intellectual impairment
+KW  - quality of life
+KW  - Educational software
+C3  - Educational  software
+N2  - Children with developmental disabilities, such as intellectual disabilities, multiple impairments, and autism spectrum disorders, often face challenges in learning, communication, and social integration. Traditional support methods are often insufficient to help them reach their full potential. The development and application of modern technologies, particularly artificial intelligence (AI) and assistive technology (AT), offer new possibilities for improving educational and rehabilitation processes. This paper analyzes how these technologies are used to support children with disabilities through a review of the literature, practical examples, and available technological tools. The role of AI in personalizing learning and recognizing emotional states is emphasized, as well as the application of AT in facilitating daily activities and the importance of AAC for developing communication skills. Challenges in the implementation of these technologies, including the education of professionals, device availability, and ethical aspects, are also discussed. The conclusion highlights that the integrated use of AI and AT significantly contributes to the inclusion and quality of life of children with disabilities, provided it is supported by appropriate education and support systems.
+ER  - 
+
+TY  - JOUR
+M3  - Article in Press
+Y1  - 2025
+SN  - 0976-3260
+SN  - 0972-7531
+JF  - Annals of Neurosciences
+JO  - Ann. Neurosci.
+UR  - https://www.embase.com/search/results?subaction=viewrecord&id=L2040613764&from=export
+U2  - L2040613764
+DB  - Embase
+U3  - 2025-09-30
+L2  - http://dx.doi.org/10.1177/09727531251369286
+DO  - 10.1177/09727531251369286
+A1  - Sahai, A.
+M1  - (Sahai A., Sahai.anjali@gmail.com) Department of Psychology, Amity University, Uttar Pradesh, Noida, India
+AD  - A. Sahai, Department of Psychology, Amity University, Uttar Pradesh, Noida, India
+T1  - Dealing with Autism Spectrum Disorders: Journey from Traditional Methods to Artificial Intelligence
+LA  - English
+KW  - algorithm
+KW  - artificial intelligence
+KW  - Asperger syndrome
+KW  - augmentative communication system
+KW  - autism
+KW  - child
+KW  - compulsion
+KW  - data privacy
+KW  - developmental disorder
+KW  - diagnosis
+KW  - diagnostic accuracy
+KW  - electronic medical record
+KW  - health care cost
+KW  - human
+KW  - machine learning
+KW  - mental disease
+KW  - neuroimaging
+KW  - open access
+KW  - pediatrician
+KW  - psychiatrist
+KW  - review
+KW  - robot-assisted procedure
+KW  - robot-assisted therapy
+KW  - schizophrenia
+KW  - social interaction
+KW  - sustainable development goal
+KW  - telehealth
+KW  - virtual reality
+N2  - Background: World Health Organisation (WHO) in 2024 identified that approximately one in 100 children globally has autism spectrum disorder (ASD). ASD is a collection of neurodevelopmental disorders that impact a person’s ability to socially interact and communicate, which can typically be noticed in early childhood. While ‘autism’ as a term was initially used for schizophrenic patients, later psychiatrists Dr. Kanner and paediatrician Dr. Asperger introduced it as a syndrome in children with behavioural differences in social interaction and communication with restrictive and repetitive interests. In today’s time, the umbrella term ‘ASDs’ is used to describe a clinically heterogeneous group of neurodevelopmental disorders (NDDs). Purpose: To examine the role of traditional approaches and the potential effectiveness of artificial intelligence (AI) methods in dealing with ASDs for improving the accuracy in its diagnosis and treatment. Methodology: The study adopts a narrative review approach to understand the application of AI in ASD. For this purpose, around a hundred research articles were selected from the years 2010–2024. Inclusion and exclusion criteria were identified. The review is organised and grounded on the medical treatment, occupational remedy, vocational remedy, psychology, family remedy and recuperation engineering. Results and Conclusion: The results show the undisputed role of AI and its ability to identify early indicators of autism, in accordance with the UN Sustainable Development Goal 3 (Good Health and Well-being) and Goal 16 (Peace, Justice and Strong Institutions). Further, healthcare sectors which are using a variety of AI analyses on data sources, genetics, neuroimaging, behavioural patterns and electronic medical records are able to early detect for individualised evaluation of ASD. The significance of timely interventions with the help of machine learning (ML) algorithms demonstrates high accuracy in differentiating ASD from neurotypical development and other developmental disorders. AI-driven therapeutic interventions expand social interactions and communication skills in people with ASD in the form of virtual reality-based training, augmentative communication systems and robot-assisted therapies. Thus, the future of AI in ASD holds promise for improving diagnostic accuracy, implementing telehealth platforms and customising treatment plans, despite obstacles such as data privacy and interpretability.
+ER  - 
+
+TY  - JOUR
+M3  - Article
+Y1  - 2024
+VL  - 24
+IS  - 1
+SN  - 1471-244X
+JF  - BMC Psychiatry
+JO  - BMC Psychiatry
+UR  - https://www.embase.com/search/results?subaction=viewrecord&id=L2031631521&from=export
+U2  - L2031631521
+C5  - 39334042
+DB  - Embase
+DB  - Medline
+U3  - 2024-10-08
+U4  - 2024-11-22
+L2  - http://dx.doi.org/10.1186/s12888-024-06086-3
+DO  - 10.1186/s12888-024-06086-3
+A1  - Jaschke, A.C.
+A1  - Howlin, C.
+A1  - Pool, J.
+A1  - Greenberg, Y.D.
+A1  - Atkinson, R.
+A1  - Kovalova, A.
+A1  - Merriam, E.
+A1  - Pallás-Ferrer, I.
+A1  - Williams, S.
+A1  - Moore, C.
+A1  - Hayden, K.
+A1  - Allison, C.
+A1  - Odell-Miller, H.
+A1  - Baron-Cohen, S.
+M1  - (Jaschke A.C., aj723@medschl.cam.ac.uk; Greenberg Y.D.; Kovalova A.; Merriam E.; Pallás-Ferrer I.; Williams S.; Allison C.; Baron-Cohen S.) Department of Psychiatry, Autism Research Centre, University of Cambridge, 18B Trumpington Road, Cambridge, United Kingdom
+M1  - (Jaschke A.C., aj723@medschl.cam.ac.uk) Department of Music Therapy, ArtEZ University of the Arts, Enschede, Netherlands
+M1  - (Jaschke A.C., aj723@medschl.cam.ac.uk) Department of Neonatology, University Medical Center Groningen, Beatrix Childrens Hospital, Groningen, Netherlands
+M1  - (Howlin C.) Department of Psychology, Trinity College Dublin, Dublin, Ireland
+M1  - (Pool J.; Atkinson R.; Odell-Miller H.) Anglia Ruskin University, Cambridge Institute for Music Therapy Research, Cambridge, United Kingdom
+M1  - (Moore C.; Hayden K.) Clinical Trials Unit, Anglia Ruskin University, Chelmsford, United Kingdom
+AD  - A.C. Jaschke, Department of Psychiatry, Autism Research Centre, University of Cambridge, 18B Trumpington Road, Cambridge, United Kingdom
+T1  - Study protocol of a randomized control trial on the effectiveness of improvisational music therapy for autistic children
+LA  - English
+KW  - NCT06016621
+KW  - adolescent
+KW  - anxiety
+KW  - anxiety assessment
+KW  - article
+KW  - Assessment of the Quality of Relationship
+KW  - autism
+KW  - autism-spectrum quotient
+KW  - Brief Observation of Social Communication Change
+KW  - child
+KW  - Child Outcome Rating Scale
+KW  - Children Communication Checklist 2
+KW  - Clinical Global Impression scale
+KW  - communication skill
+KW  - controlled study
+KW  - empathy
+KW  - empathy quotient
+KW  - follow up
+KW  - good clinical practice
+KW  - health practitioner
+KW  - human
+KW  - hyperacusis
+KW  - hypersensitivity
+KW  - ICD-10
+KW  - improvisational music therapy
+KW  - intelligence quotient
+KW  - interpersonal communication
+KW  - language ability
+KW  - machine learning
+KW  - major clinical study
+KW  - mental disease assessment
+KW  - Music at Home Questionnaire
+KW  - Music Engagement Scale
+KW  - music therapy
+KW  - outcome assessment
+KW  - Parent reported anxiety scale
+KW  - psychosocial intervention
+KW  - questionnaire
+KW  - randomized controlled trial
+KW  - rating scale
+KW  - single blind procedure
+KW  - social well-being
+KW  - strengths and difficulties questionnaire
+KW  - systemizing quotient
+KW  - videorecording
+KW  - Vineland Adaptive Behavior Scale
+KW  - Wechsler intelligence scale
+KW  - Young Child Outcome Rating Scale
+N2  - Background: Music therapy is the clinical use of musical interventions to improve mental and physical health across multiple domains, including social communication. Autistic children, who have difficulties in social communication and often increased anxiety, tend to show a strong preference for music, because it can be structured and systematic, and therefore more predictable than social interaction. This makes music therapy a promising medium for therapeutic support and intervention. Previous clinical trials of music therapy compared to traditional therapy for autistic children have shown encouraging but nevertheless mixed results. Key aims: The primary aim is to conduct a randomised controlled trial (RCT) of improvisational music therapy for autistic children and test its effectiveness in at improving social communication and wellbeing, and to reduce anxiety. Research plan: The RCT will be conducted with 200 autistic children in the UK aged 7 to 11 years old. Participants will be randomly assigned to either improvisational music therapy or support as usual. The trial will be an assessor-blind, pragmatic two-arm cluster RCT comparing the impact of 12-weeks of improvisational music therapy in addition to support as usual, vs. support as usual for autistic children. Methods: Researchers who are blind to which arm the children are in will conduct assessments and obtain data via caregiver reports. The primary outcome will be the absolute change in the total score of the Brief Observation of Social Communication Change (BOSCC) assessed at baseline, T1 (13 weeks) and T2 (39 weeks) follow-ups. The BOSCC consists of specific items that were developed to identify changes in social-communication behaviours. Secondary outcome measures include: (1) Parent reported anxiety scale for youth with ASD (Note that we do not use the term ‘ASD’ or Autism Spectrum Disorder, because many autistic people feel it is stigmatising. Instead, we use the term ‘autism’) (PRAS-ASD) (2) Young Child Outcome Rating Scale, for wellbeing (YCORS), (3) Strengths and Difficulties Questionnaire (SDQ); and (4) Vineland Adaptive Behaviour Scale (VABS). (5) The Children’s Communication Checklist-2 (CCC-2) will be completed to evaluate pragmatic speech with fluent speakers only; (6) The Music Engagement Scale (MES); and (7) Assessment of the Quality of Relationship (AQR) will be used to evaluate the child-therapist relationships using video-analysis of music therapy sessions. Additional data will be collected by administering the Wechsler Abbreviated Scale of Intelligence (WASI-II), Music at Home Questionnaire (M@H), and children’s versions of the Empathy Quotient (EQ) and Systemizing Quotient (SQ). Audio and video data from the therapy sessions will be collected and analysed (using both human and computer-based feature-coding, e.g., machine learning and AI-driven methods) to identify how music and non-musical interactions foster change throughout the therapy. Discussion: This study aims to observe if the interactions, engagement, and therapeutic modalities fostered during music therapy sessions can translate to non-musical contexts and improve autistic children’s social communication skills, identifying possible mediating factors contributing to the effectiveness of music therapy, potentially informing policy making and governance. Trial registration: This randomised control trial is registered with the NIH U.S. National Library of Medicine: https://clinicaltrials.gov/search?term=NCT06016621, clinicalTrials.gov Identifier: NCT0601662, Registration Date 19th August 2023.
+ER  - 
+
+TY  - JOUR
+M3  - Article
+Y1  - 2023
+VL  - 13
+IS  - 18
+SN  - 2075-4418
+JF  - Diagnostics
+JO  - Diagn.
+UR  - https://www.embase.com/search/results?subaction=viewrecord&id=L2025690841&from=export
+U2  - L2025690841
+DB  - Embase
+U3  - 2023-10-03
+U4  - 2023-11-27
+L2  - http://dx.doi.org/10.3390/diagnostics13182948
+DO  - 10.3390/diagnostics13182948
+A1  - Awaji, B.
+A1  - Senan, E.M.
+A1  - Olayah, F.
+A1  - Alshari, E.A.
+A1  - Alsulami, M.
+A1  - Abosaq, H.A.
+A1  - Alqahtani, J.
+A1  - Janrao, P.
+M1  - (Awaji B., balawaji@nu.edu.sa; Alsulami M., mmalsulami@nu.edu.sa; Abosaq H.A., haabosaq@nu.edu.sa; Alqahtani J., jaalqahtani@nu.edu.sa) Department of Computer Science, College of Computer Science and Information Systems, Najran University, Najran, Saudi Arabia
+M1  - (Senan E.M., senan1710@gmail.com) Department of Artificial Intelligence, Faculty of Computer Science and Information Technology, Alrazi University, Sana’a, Yemen
+M1  - (Olayah F., Dr.Fekry_Olayah@yahoo.com) Department of Information System, College of Computer Science and Information Systems, Najran University, Najran, Saudi Arabia
+M1  - (Alshari E.A., em.alshari3@gmail.com) Department of Computer Science and Information Technology, Thamar University, Dhamar, Yemen
+M1  - (Alshari E.A., em.alshari3@gmail.com) Department of Artificial Intelligence, Faculty of Engineering and Smart Computing, Modern Specialized University, Sana’a, Yemen
+M1  - (Janrao P., prachi.janrao@gmail.com) Thakur College of Engineering and Technology, Kandivali(E), Mumbai, India
+AD  - B. Awaji, Department of Computer Science, College of Computer Science and Information Systems, Najran University, Najran, Saudi Arabia
+AD  - E.M. Senan, Department of Artificial Intelligence, Faculty of Computer Science and Information Technology, Alrazi University, Sana’a, Yemen
+T1  - Hybrid Techniques of Facial Feature Image Analysis for Early Detection of Autism Spectrum Disorder Based on Combined CNN Features
+LA  - English
+KW  - machine learning software
+KW  - area under the curve
+KW  - article
+KW  - artificial intelligence
+KW  - autism
+KW  - child
+KW  - convolutional neural network
+KW  - early diagnosis
+KW  - facial expression
+KW  - facies
+KW  - human
+KW  - image analysis
+KW  - image processing
+KW  - machine learning
+KW  - residual neural network
+KW  - sensitivity and specificity
+N2  - Autism spectrum disorder (ASD) is a complex neurodevelopmental disorder characterized by difficulties in social communication and repetitive behaviors. The exact causes of ASD remain elusive and likely involve a combination of genetic, environmental, and neurobiological factors. Doctors often face challenges in accurately identifying ASD early due to its complex and diverse presentation. Early detection and intervention are crucial for improving outcomes for individuals with ASD. Early diagnosis allows for timely access to appropriate interventions, leading to better social and communication skills development. Artificial intelligence techniques, particularly facial feature extraction using machine learning algorithms, display promise in aiding the early detection of ASD. By analyzing facial expressions and subtle cues, AI models identify patterns associated with ASD features. This study developed various hybrid systems to diagnose facial feature images for an ASD dataset by combining convolutional neural network (CNN) features. The first approach utilized pre-trained VGG16, ResNet101, and MobileNet models. The second approach employed a hybrid technique that combined CNN models (VGG16, ResNet101, and MobileNet) with XGBoost and RF algorithms. The third strategy involved diagnosing ASD using XGBoost and an RF based on features of VGG-16-ResNet101, ResNet101-MobileNet, and VGG16-MobileNet models. Notably, the hybrid RF algorithm that utilized features from the VGG16-MobileNet models demonstrated superior performance, reached an AUC of 99.25%, an accuracy of 98.8%, a precision of 98.9%, a sensitivity of 99%, and a specificity of 99.1%.
+ER  - 
+
+TY  - JOUR
+M3  - Article
+Y1  - 2023
+VL  - 16
+IS  - 7
+SP  - 1360
+EP  - 1374
+SN  - 1939-3806
+SN  - 1939-3792
+JF  - Autism Research
+JO  - Autism Res.
+UR  - https://www.embase.com/search/results?subaction=viewrecord&id=L2023534766&from=export
+U2  - L2023534766
+C5  - 37259909
+DB  - Embase
+DB  - Medline
+U3  - 2023-06-14
+U4  - 2023-08-10
+L2  - http://dx.doi.org/10.1002/aur.2955
+DO  - 10.1002/aur.2955
+A1  - Coffman, M.
+A1  - Di Martino, J.M.
+A1  - Aiello, R.
+A1  - Carpenter, K.L.H.
+A1  - Chang, Z.
+A1  - Compton, S.
+A1  - Eichner, B.
+A1  - Espinosa, S.
+A1  - Flowers, J.
+A1  - Franz, L.
+A1  - Perochon, S.
+A1  - Krishnappa Babu, P.R.
+A1  - Sapiro, G.
+A1  - Dawson, G.
+M1  - (Coffman M., marika.coffman@duke.edu; Aiello R.; Carpenter K.L.H.; Compton S.; Flowers J.; Franz L.; Dawson G.) Duke Center for Autism and Brain Development, Duke University, Durham, NC, United States
+M1  - (Coffman M., marika.coffman@duke.edu; Aiello R.; Carpenter K.L.H.; Compton S.; Flowers J.; Franz L.; Dawson G.) Department of Psychiatric and Behavioral Sciences, Duke University, Durham, NC, United States
+M1  - (Di Martino J.M.; Chang Z.; Perochon S.; Krishnappa Babu P.R.; Sapiro G.) Department of Electrical and Computer Engineering, Duke University, Durham, NC, United States
+M1  - (Eichner B.) Department of Pediatrics, Duke University, Durham, NC, United States
+M1  - (Espinosa S.) Office of Information Technology, Duke University, Durham, NC, United States
+M1  - (Franz L.) Duke Global Health Institute, Duke University, Durham, NC, United States
+M1  - (Perochon S.) Centre Borelli, Ecole Normale Superieure Paris-Saclay, Gif-Sur-Yvette, France
+M1  - (Sapiro G.) Department of Biomedical Engineering, Mathematics, and Computer Sciences, Duke University, Durham, NC, United States
+AD  - M. Coffman, Duke Center for Autism and Brain Development, Department of Psychiatry and Behavioral Sciences, Duke University, Durham, NC, United States
+T1  - Relationship between quantitative digital behavioral features and clinical profiles in young autistic children
+LA  - English
+KW  - healthcare software
+KW  - mobile application
+KW  - smartphone
+KW  - tablet computer
+KW  - article
+KW  - attention
+KW  - autism
+KW  - Autism Diagnostic Observation Schedule
+KW  - behavior assessment
+KW  - caregiver
+KW  - child
+KW  - child behavior
+KW  - Child Behavior Checklist
+KW  - clinical feature
+KW  - clinician
+KW  - cognition
+KW  - computer analysis
+KW  - computer vision
+KW  - concurrent validity
+KW  - controlled study
+KW  - digital phenotyping
+KW  - digital technology
+KW  - disease association
+KW  - feature extraction
+KW  - female
+KW  - follow up
+KW  - game-based learning
+KW  - head movement
+KW  - human
+KW  - language ability
+KW  - major clinical study
+KW  - male
+KW  - motor performance
+KW  - Mullen scales of early learning
+KW  - phenotype
+KW  - quantitative analysis
+KW  - social attention
+KW  - Social Responsiveness Scale-second edition
+KW  - toddler
+N2  - Early behavioral markers for autism include differences in social attention and orienting in response to one's name when called, and differences in body movements and motor abilities. More efficient, scalable, objective, and reliable measures of these behaviors could improve early screening for autism. This study evaluated whether objective and quantitative measures of autism-related behaviors elicited from an app (SenseToKnow) administered on a smartphone or tablet and measured via computer vision analysis (CVA) are correlated with standardized caregiver-report and clinician administered measures of autism-related behaviors and cognitive, language, and motor abilities. This is an essential step in establishing the concurrent validity of a digital phenotyping approach. In a sample of 485 toddlers, 43 of whom were diagnosed with autism, we found that CVA-based gaze variables related to social attention were associated with the level of autism-related behaviors. Two language-related behaviors measured via the app, attention to people during a conversation and responding to one's name being called, were associated with children's language skills. Finally, performance during a bubble popping game was associated with fine motor skills. These findings provide initial support for the concurrent validity of the SenseToKnow app and its potential utility in identifying clinical profiles associated with autism. Future research is needed to determine whether the app can be used as an autism screening tool, can reliably stratify autism-related behaviors, and measure changes in autism-related behaviors over time.
+ER  - 
+
+TY  - JOUR
+M3  - Article
+Y1  - 2023
+VL  - 24
+IS  - 8
+SN  - 1422-0067
+SN  - 1661-6596
+JF  - International Journal of Molecular Sciences
+JO  - Int. J. Mol. Sci.
+UR  - https://www.embase.com/search/results?subaction=viewrecord&id=L2023010169&from=export
+U2  - L2023010169
+C5  - 37108604
+DB  - Embase
+DB  - Medline
+U3  - 2023-05-11
+U4  - 2023-08-30
+L2  - http://dx.doi.org/10.3390/ijms24087443
+DO  - 10.3390/ijms24087443
+A1  - Mesleh, A.
+A1  - Ehtewish, H.
+A1  - de la Fuente, A.
+A1  - Al-shamari, H.
+A1  - Ghazal, I.
+A1  - Al-Faraj, F.
+A1  - Al-Shaban, F.
+A1  - Abdesselem, H.B.
+A1  - Emara, M.
+A1  - Alajez, N.M.
+A1  - Arredouani, A.
+A1  - Decock, J.
+A1  - Albagha, O.
+A1  - Stanton, L.W.
+A1  - Abdulla, S.A.
+A1  - El-Agnaf, O.M.A.
+M1  - (Mesleh A.; Ehtewish H.; Al-Shaban F.; Alajez N.M.; Arredouani A.; Decock J.; Albagha O.; Stanton L.W.; El-Agnaf O.M.A., oelagnaf@hbku.edu.qa) College of Health and Life Sciences (CHLS), Hamad Bin Khalifa University (HBKU), Qatar Foundation (QF), P.O. Box 34110, Doha, Qatar
+M1  - (Mesleh A.; Ehtewish H.; Al-shamari H.; Ghazal I.; Al-Faraj F.; Al-Shaban F.; Stanton L.W.; Abdulla S.A.; El-Agnaf O.M.A., oelagnaf@hbku.edu.qa) Neurological Disorders Research Center, Qatar Biomedical Research Institute (QBRI), Hamad Bin Khalifa University (HBKU), Qatar Foundation (QF), P.O. Box 34110, Doha, Qatar
+M1  - (de la Fuente A.; Arredouani A.) Diabetes Research Center, Qatar Biomedical Research Institute (QBRI), Hamad Bin Khalifa University (HBKU), P.O. Box 34110, Doha, Qatar
+M1  - (Abdesselem H.B.) Proteomics Core Facility, Qatar Biomedical Research Institute (QBRI), Hamad Bin Khalifa University (HBKU), Qatar Foundation (QF), P.O. Box 34110, Doha, Qatar
+M1  - (Emara M.) Basic Medical Sciences Department, College of Medicine, QU Health, Qatar University (QU), P.O. Box 2713, Doha, Qatar
+M1  - (Alajez N.M.; Decock J.) Translational Cancer and Immunity Center, Qatar Biomedical Research Institute (QBRI), Hamad Bin Khalifa University (HBKU), Qatar Foundation (QF), P.O. Box 34110, Doha, Qatar
+AD  - O.M.A. El-Agnaf, College of Health and Life Sciences (CHLS), Hamad Bin Khalifa University (HBKU), Qatar Foundation (QF), P.O. Box 34110, Doha, Qatar
+T1  - Blood Proteomics Analysis Reveals Potential Biomarkers and Convergent Dysregulated Pathways in Autism Spectrum Disorder: A Pilot Study
+LA  - English
+KW  - biological marker
+KW  - plasma protein
+KW  - proteome
+KW  - SNARE protein
+KW  - adolescent
+KW  - article
+KW  - autism
+KW  - child
+KW  - controlled study
+KW  - down regulation
+KW  - female
+KW  - gene ontology
+KW  - human
+KW  - machine learning
+KW  - major clinical study
+KW  - male
+KW  - pilot study
+KW  - protein expression
+KW  - proteomics
+KW  - support vector machine
+KW  - upregulation
+KW  - weighted gene co-expression network analysis
+N2  - Autism spectrum disorder (ASD) is an umbrella term that encompasses several disabling neurodevelopmental conditions. These conditions are characterized by impaired manifestation in social and communication skills with repetitive and restrictive behaviors or interests. Thus far, there are no approved biomarkers for ASD screening and diagnosis; also, the current diagnosis depends heavily on a physician’s assessment and family’s awareness of ASD symptoms. Identifying blood proteomic biomarkers and performing deep blood proteome profiling could highlight common underlying dysfunctions between cases of ASD, given its heterogeneous nature, thus laying the foundation for large-scale blood-based biomarker discovery studies. This study measured the expression of 1196 serum proteins using proximity extension assay (PEA) technology. The screened serum samples included ASD cases (n = 91) and healthy controls (n = 30) between 6 and 15 years of age. Our findings revealed 251 differentially expressed proteins between ASD and healthy controls, of which 237 proteins were significantly upregulated and 14 proteins were significantly downregulated. Machine learning analysis identified 15 proteins that could be biomarkers for ASD with an area under the curve (AUC) = 0.876 using support vector machine (SVM). Gene Ontology (GO) analysis of the top differentially expressed proteins (TopDE) and weighted gene co-expression analysis (WGCNA) revealed dysregulation of SNARE vesicular transport and ErbB pathways in ASD cases. Furthermore, correlation analysis showed that proteins from those pathways correlate with ASD severity. Further validation and verification of the identified biomarkers and pathways are warranted.
+ER  - 
+
+TY  - JOUR
+M3  - Review
+Y1  - 2022
+VL  - 9
+IS  - 10
+SN  - 2227-9067
+JF  - Children
+JO  - Child.
+UR  - https://www.embase.com/search/results?subaction=viewrecord&id=L2019777898&from=export
+U2  - L2019777898
+DB  - Embase
+U4  - 2023-06-22
+L2  - http://dx.doi.org/10.3390/children9101483
+DO  - 10.3390/children9101483
+A1  - Yosep, I.
+A1  - Prayogo, S.A.
+A1  - Kohar, K.
+A1  - Andrew, H.
+A1  - Mardhiyah, A.
+A1  - Amirah, S.
+A1  - Maulana, S.
+M1  - (Yosep I., iyus.yosep@unpad.ac.id) Department of Mental Health Nursing, Faculty of Nursing, Universitas Padjadjaran, Bandung, Indonesia
+M1  - (Prayogo S.A.; Kohar K.; Andrew H.; Amirah S.) Faculty of Medicine, Universitas Indonesia, Depok City, Indonesia
+M1  - (Mardhiyah A.) Department of Pediatric Nursing, Faculty of Nursing, Universitas Padjadjaran, Bandung, Indonesia
+M1  - (Maulana S.) Professional Nursing Program, Faculty of Nursing, Universitas Padjadjaran, Bandung, Indonesia
+AD  - I. Yosep, Department of Mental Health Nursing, Faculty of Nursing, Universitas Padjadjaran, Bandung, Indonesia
+T1  - Managing Autism Spectrum Disorder in the Face of Pandemic Using Internet-Based Parent-Mediated Interventions: A Systematic Review of Randomized Controlled Trials
+LA  - English
+KW  - adaptive behavior
+KW  - attitude to illness
+KW  - autism
+KW  - clinical effectiveness
+KW  - cognitive behavioral therapy
+KW  - communication skill
+KW  - competence
+KW  - coronavirus disease 2019
+KW  - cost effectiveness analysis
+KW  - daily life activity
+KW  - disruptive behavior
+KW  - e-learning
+KW  - health care access
+KW  - human
+KW  - intelligence quotient
+KW  - motivation
+KW  - pandemic
+KW  - parent counseling
+KW  - patient compliance
+KW  - patient satisfaction
+KW  - perception
+KW  - psychoeducation
+KW  - randomized controlled trial (topic)
+KW  - review
+KW  - self concept
+KW  - social competence
+KW  - systematic review
+KW  - telehealth
+KW  - treatment duration
+KW  - treatment outcome
+KW  - Vineland Adaptive Behavior Scale
+KW  - vocabulary
+KW  - web-based intervention
+N2  - ASD is a neurodevelopmental disorder that is primarily treated with psychosocial intervention. However, it is costly and requires extensive resources to be effective. This inaccessibility is also further worsened by the ongoing COVID-19 pandemic, making the shift to a digital approach a sensible option. Among the available ASD therapies, parent-mediated interventions (PMIs) have a broad application and lower implementation cost. Hence, this systematic review aims to evaluate the potential that telehealth-based PMI holds and explore its feasibility throughout the COVID-19 pandemic. To build up this study, a systematic search through PubMed, Scopus, ProQuest, Wiley, and Cochrane was performed until 14 January 2021. Using the preferred Reporting Items for Systematic Review and Meta-Analysis guidelines, we ultimately included six studies in the review. Each study was evaluated utilizing the Cochrane Risk of Bias (ROB)-2 tool. Generally, parents’ outcomes (knowledge, satisfaction, and compliance) were higher in intervention group (E-learning) compared to control (standard treatment or wait-list). Children also showed some improvements in social skill, communication skill, and intelligence after receiving the treatment. In addition, coaching or therapist sessions were found to be crucial as adjuvant to support parents during the intervention. In conclusion, internet-based parent-mediated interventions are promising and recommended for managing ASD patients, in the face of pandemic. However, more variety in study locations is also needed, particularly in low- and middle-income countries, to tackle the knowledge and clinical application gap. Further research should be conducted with a uniform measurement tool to achieve the same perception and reliable pooled analysis.
+ER  - 
+
+TY  - GEN
+M3  - Clinical Trial
+Y1  - 2022
+JF  - clinicaltrials.gov
+JO  - clinicaltrials.gov
+UR  - https://www.embase.com/search/results?subaction=viewrecord&id=LNCT05373173&from=export
+U2  - LNCT05373173
+U3  - 2025-05-12
+U4  - 2025-05-12
+L2  - https://clinicaltrials.gov/study/NCT05373173
+T1  - Can a Novel Telemedicine Tool Reduce Disparities Related to the Identification of Preschool
+LA  - English
+KW  - machine learning
+KW  - risk assessment
+KW  - ethnicity
+KW  - telemedicine
+KW  - telehealth
+KW  - medical history
+KW  - autism
+KW  - coronavirus disease 2019
+KW  - DiGeorge syndrome
+KW  - DSM-5
+KW  - growth disorder
+KW  - preschool child
+KW  - infant
+KW  - psychologist
+KW  - caregiver
+KW  - child
+KW  - toddler
+KW  - tertiary health care
+KW  - health center
+KW  - health insurance
+KW  - diagnostic kit
+KW  - cognition
+KW  - language ability
+KW  - questionnaire
+KW  - interrater reliability
+KW  - phenotype
+KW  - reliability
+KW  - decision making
+KW  - speech
+KW  - adaptive behavior
+KW  - communication skill
+KW  - interview
+KW  - psychometry
+KW  - Vineland Adaptive Behavior Scale
+KW  - diagnosis
+KW  - checklist
+KW  - benchmarking
+KW  - Autism Diagnostic Observation Schedule
+KW  - Mullen scales of early learning
+KW  - Likert scale
+KW  - videorecording
+KW  - clinical trial
+KW  - human
+KW  - controlled study
+N2  - Brief Summary
+Families seeking evaluation for autism spectrum disorder (ASD) often face barriers such as low availability of specialists, lengthy waitlists, and long distances to tertiary care diagnostic centers. This is especially true for children from traditionally underserved groups and communities. Without innovative approaches for enhanced identification of ASD, families and clinicians will continue to struggle with accessing and providing care. Telemedicine offers tremendous potential for addressing this need, but there are few psychometrically sound, validated tools that can be administered remotely, via telehealth platforms. This team of investigators developed and conducted a preliminary evaluation of a novel parent-administered, clinician-guided tele-diagnostic tool, the TAP (TELE-ASD-PEDS), designed specifically for direct-to-home and community clinic use with toddlers. Remote administration of the TAP yielded a very high level of agreement with blinded comprehensive evaluation regarding ASD risk classification. Subsequently, the unanticipated broad dissemination of the TAP during COVID-19 demonstrated its value for traditionally underserved groups, spanning broad geographies. Although promising, this work was limited by its specific focus on toddlers with ASD concerns. A telemedicine tool designed for the unique context and population of preschool-aged children referred for diagnostic assessment could have tremendous value in terms of both accurate identification as well as family engagement with service. In the current work, the investigators will now evaluate the performance, usability, and utility of the TAP-Preschool, a new telemedicine tool for ASD risk assessment in preschoolers, through a clinical trial. The TAP-Preschool was developed through a computationally informed co-production in which the targeted population were recruited as active partners in designing the tool. The investigators will gather critical data not only regarding its structure and accuracy, but also its potential deployment across systems responsible for engaging children and families from underserved groups in meaningful service. This work has potential to transform the ASD evaluation process and dramatically improve care access for traditionally underserved groups.
+Detailed Description
+Innovative telemedicine practices could address many existing traditional barriers to ASD identification. Telemedicine has the potential to put linguistically and culturally competent clinical expert virtual providers directly into communities during a critical window in which many vulnerable families may approach, or re-approach, care systems about developmental concerns that become more prominent with age. In the current proposal, the investigators will evaluate the potential clinical and familial value of a telemedicine-based ASD assessment tool, the TAP-Preschool (TELE-ASD-PEDS-Preschool), designed to overcome traditional barriers to diagnosis and service access in underserved preschool populations that may not be readily identified or engaged by early screening and intervention systems. A growing body of literature supports the use of telemedicine-based approaches to ASD assessment and intervention. This includes remote activities to assess infant social communication skills in the first year of life, coaching parents through administration of gold standard diagnostic tests, and provider coding and analysis of interactions that are video-recorded by caregivers. Results reflect high levels of caregiver and provider satisfaction and satisfactory agreement with traditional in-person evaluations, illustrating both the promise and feasibility of tele-assessment. However, most existing approaches are limited by a focus on screening rather than diagnosis, protocols requiring specific materials, or asynchronous analysis of submitted videos, which require resources that preclude broader use. Moreover, in current form, these tools are not designed or intended to yield a quantitative formal assessment of core ASD symptoms to support diagnostic decision-making. Further, although providers are increasingly exploring telemedicine approaches to ASD assessment in the context of the COVID-19 pandemic, there is limited published work to date on the use of real-time, caregiver-led ASD assessment in home settings with diverse populations. Prior work from the investigators' team has focused almost exclusively on toddlers in this regard. Ultimately, very few viable tools with validated psychometric properties are available for use in current models of telehealth assessment and care. In earlier work, we applied machine learning models and the principles of feature engineering to a phenotypically rich clinical research data set of preschoolers with ASD and other developmental concerns (N=914: 594 ASD and 320 Non-ASD) to identify key behavioral targets for tool development. We then engaged in a rigorous adaptation and translation approach to optimize design of the TAP-Preschool. We included leading ASD assessment experts, providers dedicated to caring for underserved populations, and parents of preschool children with ASD from underserved racial/ethnic and linguistic groups. We lead these groups in a collaborative design process in order to yield a set of interactive and play-based, parent-coached tele-assessment activities designed to 1) elicit observations tied to key computational features, 2) be deployed within a 30-minute timeframe, 3) employ inexpensive materials found in most homes, and 4) use accessible assessment instructions for real-time coaching of parents. The investigators will now deploy the preliminary TAP-Preschool with a small sample (n = 30) to assess acceptability/feasibility, potential clinical value for remote observation, and challenges that warrant revision. These data will then be used to modify the TAP-Preschool and the refined tool will be deployed with a new sample of clinically referred children (n=120). The investigators will evaluate its ability to facilitate accurate telemedicine supported diagnostic decision-making. Initial deployment, evaluation, and refinement of the TAP-Preschool: Participants: Investigators will recruit 30 parent/child dyads (children ages 36 to 72 months) with existing diagnoses of ASD (n = 20) or other developmental concerns (n = 10) from a clinical research database. Each participant will have recent data available from comprehensive evaluation tools (ADOS-2, cognitive functioning, adaptive skills). Children with and without ASD are included to provide information about TAP-Preschool usage across diverse phenotypic profiles. The sample size of 30 is deemed adequate for gathering detection of feasibility/acceptability issues and key feedback regarding measure modification for further validation. Assessment on psychometrics, clinical, and familial value of the TAP-Preschool: Participants: Investigators will recruit a novel sample (n = 120) parent/child dyads (children 36 - 72 months of age) referred for evaluation of ASD or developmental delays. These children and a primary caregiver will participate in a home-based tele-assessment session and a subsequent blinded in-person evaluation. English/Spanish speaking families with access to a device that will support Zoom will be included. Initial deployment, evaluation, and refinement of the TAP-Preschool: Consenting families will be scheduled for a single tele-assessment session with a consented licensed psychologist ("remote clinician") from our clinical research center (n=10). This clinician will coach parents through the TAP-Preschool procedures. Although families will receive standard, basic support regarding tele-assessment procedures, they will not receive extensive training on the TAP-P prior to the session in order to mimic real-world use. All remote clinicians will be experts in ASD with training on the original TAP and ADOS-2 research reliability. Each clinician will participate in 3 sessions (2 children with ASD, 1 other developmental concerns). Clinicians will be blinded to child diagnostic status. Participating telemedicine clinicians in this aim will not be aware of the ratio (2:1 ASD vs. other DD) or recruitment status prior to evaluation ratings. As children will have existing diagnoses, no diagnostic feedback will be provided. Investigators will collect user data (caregiver, clinicians) on satisfaction, ease of implementation, and diagnostic certainty (clinicians only). Based on this feedback, the preliminary TAP-Preschool instructions and procedures will be modified as needed. To systematically measure acceptability and feasibility of use, investigators will utilize an adapted Acceptability, Likely Effectiveness, Feasibility, and Appropriateness Questionnaire (ALFA-Q).54 The ALFA-Q asks caregivers and clinicians to use a 5-point Likert scale to rate the instrument acceptability, effectiveness, feasibility, and appropriateness for ASD decision making. We will also solicit free-form input. Team leads will briefly interview each clinician and caregiver about their experiences. After each telemedicine evaluation, participating clinicians will view data from previous comprehensive evaluations. Clinicians will provide concrete task evaluation data regarding whether they were able to elicit such behaviors or information in the telemedicine evaluation process. It is important to note that diagnostic agreement rankings will include dichotomous (agree/disagree) and uncertainty data (Likert ratings). As in previous preliminary feasibility/effectiveness trial, investigators will target \>60% of providers agreeing with existing risk classification for ASD, \<10% of ASD inaccurately identified with ASD, and \>50% non ASD DD with certainty as key benchmarks for understanding potential meaningful clinical value. Based on this data, the investigative team will collaborate with the clinical design team to suggest instrument modifications. The tele-assessment will take \<45 minutes to complete. The parent forms will take approximately 20 minutes to complete. Assessment on psychometrics, clinical, and familial value of the TAP-Preschool (Novel Sample): All consented families will complete an initial home-based tele-assessment visit via Zoom that includes the TAP-Preschool and a brief symptom-focused developmental interview with a consented clinician. The initial tele-assessment session includes interviewing and developmental assessment to mimic real-world use of TAP-Preschool. The visit is designed to take less than 90 minutes, with TAP-Preschool evaluation lasting \<30 minutes. All sessions will be timed. After the session, the examiner will record the clinical diagnosis issued (ASD, other developmental concerns, or typical development) and complete two diagnostic certainty ratings, one dichotomous, the other continuous. All initial TAP-Preschool administrations will be recorded via Zoom, and 50% of administrations (randomly selected) will be co-scored by a blinded examiner, unaware of prior assessment results and diagnostic decision, to evaluate inter-rater reliability. Within 7 days of the remote assessment, families will participate in an in-person diagnostic assessment including common comprehensive measures of ASD, cognitive skills, and adaptive behavior. Twenty-five percent of families will be randomly selected to participate in a remote home-based re-test with TAP-Preschool two weeks following initial administration. Tele-assessment measures: Prior to the appointment, caregivers will complete a Demographics Questionnaire (i.e., age, gender race/ethnicity, zip code, parent education) and a Medical History Form through a secure HIPAA-compliant web portal (REDCap). To reduce technology-related disruptions, research staff will talk to families before the visit about connectivity settings and recommended materials. These will take approximately 20 minutes to complete. In a single tele-assessment session modeled after our previous work, licensed clinicians will administer the TAP-Preschool, the Developmental Profile, 4th edition (DP-4), and an interview on ASD-related symptoms based on the Diagnostic and Statistical Manual of Mental Disorders, Fifth Edition (DSM-5). The DP-4 is a caregiver interview (birth - 21 years) that identifies developmental strengths and weaknesses in five core areas. The DSM-5 interview provides symptom-focused questions with developmental anchors pertinent to this age range. Immediately after the session, the clinician will complete a DSM-5 checklist indicating symptoms present and clinical diagnosis issued (ASD, other developmental concerns, or typical development). This form also contains dichotomous (certain/uncertain) and continuous (10-point Likert scale) certainty ratings. Clinicians will describe their satisfaction with the tele-assessment process (CSQ: Clinician Satisfaction Questionnaire). The initial tele-assessment appointment with the psychologist will last approximately 90 minutes. Blinded in-person assessment measures: The in-person examiner will be blinded to the tele-assessment diagnosis until after the in-person assessment. The diagnostic confirmation battery will include the Autism Diagnostic Observation Schedule, Second Edition (ADOS-2) (one module is chosen based on language ability), a cognitive measure (Mullen Scales of Early Learning or Differential Ability Scales 2nd Edition, the Vineland Adaptive Behavior Scales, Third Edition, and a DSM-5 ASD Interview. Immediately after the in-person session, the examiner will also complete a DSM-5 checklist and certainty ratings. In-person appointments will last approximately 2-3 hours and will consist of traditional diagnostic evaluations for autism spectrum disorder. Parent measures: Parents will complete the Parent Perceptions of Telehealth (PPT) and the Parent Service Satisfaction (PSS) surveys, used in our previous work, to assess perceptions of tele-assessment procedures after the telemedicine and in-person evaluations. These parent forms will take approximately 10 minutes to complete.
+ER  - 
+
+TY  - JOUR
+M3  - Article
+Y1  - 2021
+VL  - 1
+IS  - 3
+SP  - 201
+EP  - 209
+SN  - 2667-1743
+JF  - Biological Psychiatry Global Open Science
+JO  - Biol. Psychiatry Glob. Open Sci.
+UR  - https://www.embase.com/search/results?subaction=viewrecord&id=L2013586697&from=export
+U2  - L2013586697
+DB  - Embase
+U4  - 2023-03-14
+L2  - http://dx.doi.org/10.1016/j.bpsgos.2021.05.003
+DO  - 10.1016/j.bpsgos.2021.05.003
+A1  - Hipp, J.F.
+A1  - Frohlich, J.
+A1  - Keute, M.
+A1  - Tan, W.-H.
+A1  - Bird, L.M.
+M1  - (Hipp J.F., joerg.hipp@roche.com; Frohlich J.; Keute M.) Roche Pharma Research and Early Development, Neuroscience and Rare Diseases, Roche Innovation Center, Basel, Switzerland
+M1  - (Frohlich J.) Center for Autism Research and Treatment (JF), Semel Institute for Neuroscience & Human Behavior, University of California Los Angeles, Los Angeles, California, United States
+M1  - (Bird L.M.) Department of Pediatrics, University of California San Diego, San Diego, California, United States
+M1  - (Bird L.M.) Genetics/Dysmorphology, Rady Children's Hospital San Diego, San Diego, California, United States
+M1  - (Tan W.-H.) Division of Genetics and Genomics, Boston Children's Hospital, Harvard Medical School, Boston, Massachusetts, United States
+M1  - (Keute M.) Institute for Neuromodulation and Neurotechnology, University of Tübingen, Tübingen, Germany
+AD  - J.F. Hipp, Roche Pharma Research and Early Development, Neuroscience and Rare Diseases, Roche Innovation Center, Basel, Switzerland
+T1  - Electrophysiological Abnormalities in Angelman Syndrome Correlate With Symptom Severity
+LA  - English
+KW  - biological marker
+KW  - adaptive behavior
+KW  - adolescent
+KW  - adult
+KW  - Angelman Syndrome Clinical Severity Scale
+KW  - article
+KW  - Bayley Scales of Infant Development
+KW  - child
+KW  - chromosome 15q
+KW  - chromosome deletion
+KW  - clinical feature
+KW  - controlled study
+KW  - cross-sectional study
+KW  - delta rhythm
+KW  - disease association
+KW  - disease severity
+KW  - disease severity assessment
+KW  - epilepsy
+KW  - female
+KW  - frequency modulation
+KW  - happy puppet syndrome
+KW  - human
+KW  - infant
+KW  - interpersonal communication
+KW  - language ability
+KW  - longitudinal study
+KW  - machine learning
+KW  - major clinical study
+KW  - male
+KW  - motor performance
+KW  - nervous system electrophysiology
+KW  - onset age
+KW  - outcome assessment
+KW  - skill
+KW  - Vineland Adaptive Behavior Scale
+N2  - Background: Angelman syndrome (AS) is a rare neurodevelopmental disorder caused by the absence of functional UBE3A in neurons. Excess low-frequency oscillations as measured with electroencephalography (EEG) have been identified as a characteristic finding, but the relationship of this EEG finding to the symptomatology of AS and its significance in the pathophysiology of AS remain unknown. Methods: We used correlations and machine learning to investigate the cross-sectional and longitudinal relationship between EEG spectral power and motor, cognitive, and language skills (Bayley Scales of Infant and Toddler Development, Third Edition); adaptive behavior (Vineland Adaptive Behavior Scales, Second Edition); AS-specific symptoms (AS Clinical Severity Scale); and the age of epilepsy onset in a large sample of children (age: 1–18 years) with AS due to a chromosomal deletion of 15q11-q13 (45 individuals with 72 visits). Results: We found that after accounting for age differences, participants with stronger EEG delta-band abnormality had earlier onset of epilepsy and lower performance scores across symptom domains including cognitive, motor, and communication. Combing spatial and spectral information beyond the delta frequency band increased the cross-sectional association with clinical severity on average by approximately 45%. Furthermore, we found evidence for longitudinal correlations of EEG delta-band power within several performance domains, including the mean across Bayley Scales of Infant and Toddler Development, Third Edition, scores. Conclusions: Our results show an association between EEG abnormalities and symptom severity in AS, underlining the significance of the former in the pathophysiology of AS. Furthermore, our work strengthens the rationale for using EEG as a biomarker in the development of treatments for AS, a concept that may apply more generally to neurodevelopmental disorders.
+ER  - 
+
+TY  - JOUR
+M3  - Article
+Y1  - 2021
+VL  - 41
+SN  - 1876-3839
+SN  - 1876-3820
+JF  - European Journal of Integrative Medicine
+JO  - Eur. J. Integr. Med.
+UR  - https://www.embase.com/search/results?subaction=viewrecord&id=L2010377201&from=export
+U2  - L2010377201
+DB  - Embase
+U3  - 2020-12-28
+U4  - 2021-01-20
+L2  - http://dx.doi.org/10.1016/j.eujim.2020.101231
+DO  - 10.1016/j.eujim.2020.101231
+A1  - Mudiginty, P.
+A1  - Balamurugen, P.
+A1  - Selvan, P.
+A1  - Selvan, S.R.
+M1  - (Mudiginty P., mudiginty@gmail.com; Balamurugen P.) Ayurvedashram Holistic Wellness Center®, North Brunswick, NJ, United States
+M1  - (Selvan P.) Division of Population Science, Department of Medical Oncology, Thomas Jefferson University, Philadelphia, PA, United States
+M1  - (Selvan S.R., senthamils59@gmail.com) Siddha Yoga Research International®, Irvine, CA, United States
+AD  - P. Mudiginty, Ayurvedashram Holistic Wellness Center®, North Brunswick, NJ, United States
+T1  - Application of Varma Kalai (art of vital points) in autism spectrum disorder
+LA  - English
+KW  - adolescent
+KW  - article
+KW  - autism
+KW  - automutilation
+KW  - Ayurveda
+KW  - case report
+KW  - child
+KW  - clinical article
+KW  - cognition
+KW  - communication skill
+KW  - cost effectiveness analysis
+KW  - developmental delay
+KW  - feedback system
+KW  - female
+KW  - follow up
+KW  - gluten free diet
+KW  - human
+KW  - language ability
+KW  - male
+KW  - occupational therapy
+KW  - physiotherapy
+KW  - priority journal
+KW  - school child
+KW  - sleep quality
+KW  - social behavior
+KW  - social competence
+KW  - varma kalai
+N2  - Introduction: Autism spectrum disorder (ASD) is a neurobehavioral disorder with deficits in the neural networks of the brain. Varma Kalai, a distinct branch of ancient Siddha System of Medicine, involves manipulation of energy points on the body to heal, and/or revive from injury. This paper introduces the science of Varma Kalai and its potential therapeutic application in ASD. Methods: Based on Siddha texts and traditional practices, we observed the effects of Varma Kalai application in four ASD participants, males ages 3, 4, 7 and 11 years. The procedure involved non-invasive physical manipulation of 14 points between brain and spine. Intervention was given once a day at bedtime by their caregiver/parent over a period of 4 weeks, minimum. Observations were based on comparing parameters in initial and follow up questionnaires (4 weeks) and also verbal, email and in-person appointments/communications over 4 months. Results: Varma Kalai therapy in ASD has shown promising improvements in select areas of cognitive functions like social behaviors, language and communication skills, and physical functions. No side effects were reported. Conclusion: Varma Kalai application for ASD is simple, cost-effective, non-invasive, and safe therapy as revealed in the cases presented in this report. Encouraging feedback in the cases paves way for urgent examination of the etiology of the devastating condition of ASD through the lens of Siddha medicine to better understand this complex disorder and to develop more effective and safer treatments. To further systematically study the application of Varma Kalai in ASD, randomized controlled clinical trials are warranted.
+ER  - 
+
+TY  - JOUR
+M3  - Article
+Y1  - 2020
+VL  - 11
+IS  - 1
+SN  - 2041-1723
+JF  - Nature Communications
+JO  - Nat. Commun.
+UR  - https://www.embase.com/search/results?subaction=viewrecord&id=L2007592289&from=export
+U2  - L2007592289
+C5  - 33318484
+DB  - Embase
+DB  - Medline
+U3  - 2020-12-18
+U4  - 2021-05-14
+L2  - http://dx.doi.org/10.1038/s41467-020-19712-x
+DO  - 10.1038/s41467-020-19712-x
+A1  - Chong, E.
+A1  - Clark-Whitney, E.
+A1  - Southerland, A.
+A1  - Stubbs, E.
+A1  - Miller, C.
+A1  - Ajodan, E.L.
+A1  - Silverman, M.R.
+A1  - Lord, C.
+A1  - Rozga, A.
+A1  - Jones, R.M.
+A1  - Rehg, J.M.
+M1  - (Chong E., eunjichong@gatech.edu; Southerland A.; Stubbs E.; Miller C.; Rozga A.; Rehg J.M.) School of Interactive Computing, Georgia Institute of Technology, Atlanta, United States
+M1  - (Clark-Whitney E.; Ajodan E.L.; Silverman M.R.; Jones R.M.) Center for Autism and the Developing Brain, Weill Cornell Medicine, New York, United States
+M1  - (Lord C.) School of Medicine, University of California, Los Angeles, United States
+AD  - E. Chong, School of Interactive Computing, Georgia Institute of Technology, Atlanta, United States
+T1  - Detection of eye contact with deep neural networks is as accurate as human experts
+LA  - English
+KW  - accuracy
+KW  - adolescent
+KW  - article
+KW  - autism
+KW  - child
+KW  - communication skill
+KW  - deep neural network
+KW  - egocentricity
+KW  - eye contact
+KW  - female
+KW  - gaze
+KW  - human
+KW  - interpersonal communication
+KW  - major clinical study
+KW  - male
+KW  - recall
+KW  - transfer of learning
+KW  - videorecording
+N2  - Eye contact is among the most primary means of social communication used by humans. Quantification of eye contact is valuable as a part of the analysis of social roles and communication skills, and for clinical screening. Estimating a subject’s looking direction is a challenging task, but eye contact can be effectively captured by a wearable point-of-view camera which provides a unique viewpoint. While moments of eye contact from this viewpoint can be hand-coded, such a process tends to be laborious and subjective. In this work, we develop a deep neural network model to automatically detect eye contact in egocentric video. It is the first to achieve accuracy equivalent to that of human experts. We train a deep convolutional network using a dataset of 4,339,879 annotated images, consisting of 103 subjects with diverse demographic backgrounds. 57 subjects have a diagnosis of Autism Spectrum Disorder. The network achieves overall precision of 0.936 and recall of 0.943 on 18 validation subjects, and its performance is on par with 10 trained human coders with a mean precision 0.918 and recall 0.946. Our method will be instrumental in gaze behavior analysis by serving as a scalable, objective, and accessible tool for clinicians and researchers.
+ER  - 
+
+TY  - JOUR
+M3  - Article
+Y1  - 2019
+VL  - 49
+IS  - 1
+SP  - 279
+EP  - 293
+SN  - 1573-3432
+SN  - 0162-3257
+JF  - Journal of Autism and Developmental Disorders
+JO  - J. Autism Dev. Disord.
+UR  - https://www.embase.com/search/results?subaction=viewrecord&id=L624362303&from=export
+U2  - L624362303
+C5  - 30298462
+DB  - Embase
+DB  - Medline
+U3  - 2018-10-19
+U4  - 2019-03-14
+L2  - http://dx.doi.org/10.1007/s10803-018-3757-9
+DO  - 10.1007/s10803-018-3757-9
+A1  - Manfredonia, J.
+A1  - Bangerter, A.
+A1  - Manyakov, N.V.
+A1  - Ness, S.
+A1  - Lewin, D.
+A1  - Skalkin, A.
+A1  - Boice, M.
+A1  - Goodwin, M.S.
+A1  - Dawson, G.
+A1  - Hendren, R.
+A1  - Leventhal, B.
+A1  - Shic, F.
+A1  - Pandina, G.
+M1  - (Manfredonia J., jmanfre@its.jnj.com) Department of Advanced Analytics, Johnson & Johnson, Janssen Research & Development, LLC, 555 Route 22, Somerville, NJ, United States
+M1  - (Bangerter A.; Ness S.; Boice M.; Pandina G.) Janssen Research & Development, LLC, 1125 Trenton-Harbourton Road, Titusville, NJ, United States
+M1  - (Manyakov N.V.) Janssen Research & Development, Turnhoutseweg 30, Beerse, Belgium
+M1  - (Lewin D.) Janssen Research & Development, LLC, 920 Rte. 202, Raritan, NJ, United States
+M1  - (Skalkin A.) Janssen Research & Development, LLC, PO Box 776, Welsh & McKean Roads, Spring House, PA, United States
+M1  - (Goodwin M.S.) Department of Health Sciences, Bouvé College of Health Sciences, Northeastern University, 312E Robinson Hall, 360 Huntington Avenue, Boston, MA, United States
+M1  - (Dawson G.) Duke Center for Autism and Brain Development, Duke University School of Medicine, 2608 Erwin Road, Suite 30, Durham, NC, United States
+M1  - (Hendren R.; Leventhal B.) Benioff Children’s Hospital, University of California, San Francisco, 401 Parnassus Ave, Langley Porter, San Francisco, CA, United States
+M1  - (Shic F.) Department of Pediatrics, Center for Child Health, Behavior and Development, Seattle Children’s Research Institute, University of Washington, 2001 8th Ave Suite #400, Seattle, WA, United States
+AD  - J. Manfredonia, Department of Advanced Analytics, Johnson & Johnson, Janssen Research & Development, LLC, 555 Route 22, Somerville, NJ, United States
+T1  - Automatic Recognition of Posed Facial Expression of Emotion in Individuals with Autism Spectrum Disorder
+LA  - English
+KW  - NCT02299700
+KW  - paracetamol
+KW  - adolescent
+KW  - adult
+KW  - anger
+KW  - aptitude
+KW  - article
+KW  - association
+KW  - autism
+KW  - child
+KW  - communication skill
+KW  - controlled study
+KW  - disgust
+KW  - electromyography
+KW  - emotion
+KW  - facial expression
+KW  - facial recognition
+KW  - fear
+KW  - feature extraction
+KW  - female
+KW  - happiness
+KW  - human
+KW  - major clinical study
+KW  - male
+KW  - multicenter study
+KW  - priority journal
+KW  - prospective study
+KW  - sadness
+KW  - sample
+KW  - software
+KW  - surprise
+N2  - Facial expression is impaired in autism spectrum disorder (ASD), but rarely systematically studied. We focus on the ability of individuals with ASD to produce facial expressions of emotions in response to a verbal prompt. We used the Janssen Autism Knowledge Engine (JAKE®), including automated facial expression analysis software (FACET) to measure facial expressions in individuals with ASD (n = 144) and a typically developing (TD) comparison group (n = 41). Differences in ability to produce facial expressions were observed between ASD and TD groups, demonstrated by activation of facial action units (happy, scared, surprised, disgusted, but not angry or sad). Activation of facial action units correlated with parent-reported social communication skills. This approach has potential for diagnostic and response to intervention measures. Trial Registration NCT02299700.
+ER  - 
+
+TY  - GEN
+M3  - Clinical Trial
+Y1  - 2018
+JF  - clinicaltrials.gov
+JO  - clinicaltrials.gov
+UR  - https://www.embase.com/search/results?subaction=viewrecord&id=LNCT04119492&from=export
+U2  - LNCT04119492
+U3  - 2025-05-30
+U4  - 2025-05-30
+L2  - https://clinicaltrials.gov/study/NCT04119492
+T1  - Integrating Brain Imaging and Rehabilitation to Improve Outcomes for Children With Co-occurring DCD & ASD
+LA  - English
+KW  - academic achievement
+KW  - vocation
+KW  - leisure
+KW  - imaging software
+KW  - independent component analysis
+KW  - autism
+KW  - psychomotor disorder
+KW  - attention deficit hyperactivity disorder
+KW  - DSM-5
+KW  - mental disease
+KW  - motor dysfunction
+KW  - developmental coordination disorder
+KW  - child
+KW  - adult
+KW  - statistician
+KW  - caregiver
+KW  - follow up
+KW  - best practice
+KW  - clinical practice
+KW  - rehabilitation
+KW  - videotape
+KW  - MRI scanner
+KW  - cognition
+KW  - questionnaire
+KW  - self concept
+KW  - learning
+KW  - functional connectivity
+KW  - motor performance
+KW  - brain function
+KW  - brain size
+KW  - problem solving
+KW  - corpus callosum
+KW  - nerve cell plasticity
+KW  - nerve cell network
+KW  - gray matter
+KW  - white matter
+KW  - fusiform gyrus
+KW  - resting state network
+KW  - axial diffusivity
+KW  - cerebellum
+KW  - gray matter volume
+KW  - association cortex
+KW  - brain region
+KW  - controlled study
+KW  - brain analysis
+KW  - rating scale
+KW  - diagnosis
+KW  - diffusion tensor imaging
+KW  - nuclear magnetic resonance imaging
+KW  - analysis of covariance
+KW  - neuroimaging
+KW  - T1 weighted imaging
+KW  - dual diagnosis
+KW  - type I error
+KW  - voxel based morphometry
+KW  - clinical trial
+KW  - human
+N2  - Brief Summary
+Developmental Coordination Disorder (DCD) is a neurodevelopmental disorder that affects a child's ability to learn motor skills, such as tying shoelaces, learning to print, or riding a bicycle (APA 2013). It often co-occurs with other conditions, such as Attention Deficit Hyperactivity Disorder (ADHD). Its high co-occurrence with Autism Spectrum Disorder (ASD) has only been permitted since 2013 so it is less well known. Recent neuroimaging studies have begun to unravel the neural underpinnings of each disorder; however, few brain imaging studies have included children with co-occurring DCD and ASD. The first aim of the proposed project is to understand brain structure and function in children with DCD+/-ASD. Despite high co-occurrence of DCD and ASD (Green 2009), motor impairment and functional problems are rarely the focus of therapy for children with ASD. Current best-practice for improving motor function is an approach called Cognitive Orientation to Occupational Performance (CO-OP). The second aim of this study is to examine effectiveness of this treatment approach for children with DCD+ASD and determine if there are brain changes and improvements in motor skills as a result of intervention. This novel project is the first to integrate brain imaging and motor-based rehabilitation in this population and builds on a current study examining brain changes in children with DCD (with and without co-occurring ADHD). Examining the neural basis of these motor difficulties in the presence or absence of co-occurring conditions will help to determine the neural correlates specific to DCD and whether the response to treatment differs in children with co-occurring conditions.
+Detailed Description
+About 5% of children have DCD, a neurodevelopmental disorder that significantly affects their ability to learn motor skills, such as tying shoelaces, learning to print, or riding a bicycle (APA 2013). DCD interferes with school performance, vocational activities, leisure pursuits; it has a lifelong impact, and 75% of children with DCD will continue to experience motor difficulties as adults (Kirby 2014). DCD is highly comorbid with other neurodevelopmental disorders including Autism Spectrum Disorder (ASD) (Green 2009) and Attention Deficit Hyperactivity Disorder (ADHD) (Piek 1999) which exacerbates children's motor and functional problems (Kirby 2014). Until recently, motor deficits in children with ASD have largely been ignored. Since the Diagnostic and Statistical Manual for Mental Disorders-5th ed. (DSM-5) was published in 2013, a dual diagnosis of ASD and DCD is now permitted. Over 50% of children with ASD have been reported to have DCD (Green 2009), with the degree of motor impairment correlating with autism severity (Dzuik 2007). The overlap of DCD and ASD is not well-studied, but the high co-occurrence prompts one to wonder whether there are common and distinct neural markers that define these neurodevelopmental disorders. Neuroimaging studies have begun to unravel their neural underpinnings. Abnormalities in the cerebellum (D'Mello 2016; Foster 2015; Liu 2017; Zwicker 2009, 2011) and corpus callosum (Langevin 2014; Frazier 2009) are common to both disorders, but few studies have compared children with DCD and those with co-occurring ASD. Preliminary evidence indicates alterations in network patterns that are unique to the DCD+ASD group when compared to either single diagnosis of DCD or ASD (Caeyenberghs 2016). As one of the first neuroimaging studies to touch upon a dual diagnosis of DCD+ASD, Caeyenberghs et al. found that paralimbic regions exhibit altered connectivity in singular disorders, which are disorder specific to ASD or DCD; however, children meeting criteria for both DCD and ASD exhibit more widespread over-connectivity, specifically in the left association area and medio-occipitotemporal gyrus when compared to DCD alone. While in its infancy, neuroimaging studies suggest that DCD and ASD may have common but also distinct neural underpinnings (Caeyenberghs 2016; Caçola 2017); further research is needed to better understand the neural correlates of each disorder and its co-occurrence. Current best-practice to improve motor function in children with DCD is Cognitive Orientation to Occupational Performance (CO-OP) (Smits-Engelsman 2013). CO-OP is a task-specific approach designed to improve motor-based skills that a child needs or wants to master; it is a cognitive-based, problem-solving approach that uses verbal mediation and identifies strategies to support skill acquisition (Polatajko 2001). It is largely unknown if children with co-occurring DCD and ASD benefit from CO-OP. Although motor impairment and functional problems are common in ASD, they are rarely the focus of therapy. The primary focus of therapy for children with ASD has always been on social and communication skills or managing sensory processing differences. Preliminary findings from a case study with two children diagnosed with ASD suggest that CO-OP is feasible and able to induce clinically significant improvements in self- and parent-rated performance on each of their motor goals (Rodger 2009). However, a larger sample is needed to confirm these findings. The CO-OP approach has been effective in meeting child-chosen functional motor goals (Polatajko 2001; Miller 2001), but the neural basis for these improvements is still not known. The investigators are currently investigating brain changes in structure and function associated with CO-OP intervention for children with DCD+/-ADHD and would like to expand their study to include children with co-occurring ASD and DCD. This novel study will help to unravel the brain differences between these co-occurring conditions and explain if and why rehabilitation may benefit children with the dual diagnosis of DCD and ASD. This study will provide clinicians and researchers with a greater understanding of neurological underpinnings of motor difficulties in children with ASD, and whether interventions should include CO-OP therapy. This project is the first to integrate brain imaging and motor-based intervention in this population and may provide evidence to support new clinical practices to improve outcomes. RESEARCH DESIGN Specific Aims and Hypothesis: The proposed study is designed to test the hypotheses that, compared to children with DCD, children with ASD+DCD will exhibit overlapping but distinct differences in brain structure and function, and that rehabilitation associated with brain differences will lead to improvements of motor function. This study builds on the investigators' current CIHR-funded study comparing typically-developing children with children with DCD+/-ADHD and neuroplasticity associated with CO-OP intervention. The proposed study is designed to address the following specific aims: Aim 1: Characterize brain structure and function in children DCD+ASD and compare results to previously collected data on children with DCD+/-ADHD. Hypotheses: Compared to children with DCD, brains of children with DCD+ASD will show smaller cerebellar volume; differences in microstructural development in motor, sensory, cerebellar, and frontal pathways; and lower correlation between signals from brain regions corresponding to resting-state networks including default-mode, sensorimotor, cerebellar, and frontal networks. Aim 2: Determine if CO-OP intervention induces neuroplastic changes in brain structure/ function and improves motor skills in children with DCD+ASD. Hypotheses: Compared to a waitlist control group, children in the treatment group will show: (1) strengthened functional connectivity in sensorimotor and cerebellar, and frontal networks; (2) increased integrity of the frontal-cerebellar pathway; (3) increased gray matter volume in the dorsolateral prefrontal, motor, and cerebellar cortices; and (4) improved motor performance. A positive association between functional improvements and changes in brain structure/function is also expected. Aim 3: Determine if neuroplastic and functional changes are retained at 3-month follow-up. Hypothesis: Children who maintained their functional gains will show increased functional connectivity in brain networks, increased connectivity of the frontal-cerebellar pathway, and increased gray matter volume (as in Aim #2) compared to children who did not maintain their functional gains. Study Design and Sample Size Calculation: This study is a randomized waitlisted controlled trial. Children will be randomly assigned to either treatment or waitlist group. A statistician will randomize participants using computer-generated sequential blocks of 4 to 6; randomization codes will be kept in sealed opaque envelopes until study enrollment. Added to the investigators' current study, a sample of 30 participants with DCD+ASD will provide \> 80% power to detect clinically significant improvement of 2 points on the Canadian Occupational Performance Measure (COPM; Law 2014) \[26\] (SD of 2.5 and a type-1 error of 0.05) and a 3% difference in axial diffusivity on diffusion tensor imaging, which was correlated with motor function in the investigators' pilot work (Zwicker 2012). Participants: Thirty children (8-12 years) who meet the diagnostic criteria for DCD and ASD as outlined in the DSM-5 (APA 2013) will be eligible to participate. Brain Imaging: Prior to MR imaging, children will undergo an MRI simulator session to become familiar with the sights and sounds of the MR environment. All imaging studies will be performed on a state-of-the-art 3-Tesla GE Discovery MR 750 scanner. Brain structure will be assessed using: (1) T1-weighted structural imaging to measure cerebral volume (white matter, cortical gray matter, and deep gray matter) and cerebellar volume, and (2) diffusion tensor imaging (DTI) to measure structural connectivity and white matter microstructure throughout the brain. Brain function will be measured indirectly using resting state MRI to examine functional connectivity at rest in various networks. Total scan time is \~30 min. Intervention: CO-OP is a cognitive approach to solving functional motor problems (Polatajko 2001). Therapists teach children a global problem-solving strategy (Goal-Plan-Do-Check) as means to develop specific strategies for overcoming motor problems; the strategies are determined after a dynamic performance analysis by the therapist to determine where the "breakdown" is in performing the task. Occupational therapists trained in CO-OP will see children for one hour, once weekly for 10 weeks. Parents or caregivers will be encouraged to attend treatment sessions so therapists can instruct them how to facilitate strategy use between treatment sessions. Children will select 3 functional motor goals to be addressed during treatment, rating their performance and satisfaction of these goals pre- and post-intervention. Measures: The MABC-2 will be used to assess the degree of motor impairment; scores ≤ 16th percentile indicate DCD (Henderson 2007). This measure provides an overall total score compiled from eight subtests across 3 domains: manual dexterity (3), aiming and catching (2), and balance (3). A commonly used parent questionnaire, the DCDQ (Wilson 2007) will be used to confirm impact of motor skills on daily function. The Conners 3 AI-Parent form will be used to assess ADHD symptomology (Conners 2001). The Social Communication Questionnaire (SCQ), a parent-report questionnaire, will be used to screen for autism-specific social and communication impairments (Rutter 2003). The primary outcome measure is the COPM (Law 2014), which is an individualized, client-centred measure designed to detect change in a client's self-perception of their performance and satisfaction over time on functional goals that are of importance to them. To supplement the COPM, investigators will video-tape the child performing their 3 motor goals before and after intervention. An occupational therapist blinded to the intervention and pre-test/post-test will score the motor performance using the Performance Quality Rating Scale (PQRS), an objective and observational measure of performance quality (Miller 2001). Fine and gross motor skills will be measured using the short form of the Bruninks-Oseretsky Test of Motor Proficiency 2nd ed. (BOT-2: Bruininks 2005). Neuroimaging Analysis: DTI: for analyzing diffusion tensor data, tract-based spatial statistics (TBSS) using FMRIB Software Library (FSL) will be conducted. TBSS is a fully automated approach that allows for whole-brain analysis without pre-specification of tracts of interest (Smith 2006). T1-weighted imaging will be analyzed using voxel-based morphometry to compare the local concentration of grey matter between sessions and groups using Statistical Parametric Map-99 package (Ashburner 2000). rs-MRI: FSL will be used to conduct an independent component analysis which allows a data-driven approach to explore resting state networks (Beckman 2005). Data Analysis: Aim 1: mean brain volumes will be compared between groups using ANOVAs, with regression-based adjustment for age and sex. Generalized Linear Model will compare DTI measures and functional connectivity timeseries in children with DCD, DCD+ADHD, DCD+ASD, and controls. Aims 2 \& 3: Repeated Measures ANCOVA will be applied to the primary and secondary outcomes to detect changes over time, including effect of maturity in waitlist group, intervention effect in both waitlist and treatment groups, and late effect of intervention in treatment group. Age, MABC-2 scores, and Conners scores will be used as covariates.
+ER  - 
+
+TY  - GEN
+M3  - Clinical Trial
+Y1  - 2017
+JF  - clinicaltrials.gov
+JO  - clinicaltrials.gov
+UR  - https://www.embase.com/search/results?subaction=viewrecord&id=LNCT03307317&from=export
+U2  - LNCT03307317
+U3  - 2025-05-08
+U4  - 2025-05-08
+L2  - https://clinicaltrials.gov/study/NCT03307317
+T1  - Mirror Neuron Network Dysfunction as an Early Biomarker of Neurodevelopmental Disorder
+LA  - English
+KW  - biological marker
+KW  - oxyhemoglobin
+KW  - machine learning
+KW  - ethnicity
+KW  - sibling
+KW  - human
+KW  - normal human
+KW  - prematurity
+KW  - mental disease
+KW  - language delay
+KW  - developmental delay
+KW  - growth disorder
+KW  - infant
+KW  - male
+KW  - child
+KW  - adult
+KW  - female
+KW  - toddler
+KW  - aged
+KW  - follow up
+KW  - cognition
+KW  - electroencephalogram
+KW  - mirror neuron system
+KW  - questionnaire
+KW  - observational study
+KW  - case control study
+KW  - hemodynamics
+KW  - motor cortex
+KW  - nerve cell differentiation
+KW  - prospective study
+KW  - longitudinal study
+KW  - imitation
+KW  - neuroimaging
+KW  - electroencephalography
+KW  - functional near-infrared spectroscopy
+KW  - videorecording
+KW  - near infrared spectroscopy
+KW  - benchmarking
+KW  - clinical trial
+KW  - diagnosis
+N2  - Brief Summary
+Background: People show changes in brain activity when they watch other people do actions. This may be part of early social and communication skills. Researchers want to understand the stages of normal development of motor observation and imitation in people and how it relates to social development in infants and toddlers. Objective: To study the nature of brain activity that underlies typical brain functioning in infants, toddlers, and adults. Eligibility: Infants ages 8 12 months Healthy adults ages 18 65 Design: Adult participants will have one visit. They will: Answer questions about their family, like its size and ethnicity. Answer questions about their own behavior and do a simple motor task. Have EEG/fNIRS. A damp elastic cap with small sensors will be placed on the head. Participants will observe stimuli, either on a video screen or of a live person. The sensors will be connected to a computer. That will record the participant s brain activity while watching pictures on a screen. Infant participants will have 2 visits. Their parents will answer questions about their family. The parents will fill out forms about their child s development. These will be mailed to them before each visit. Parents will stay with their infant while study staff does an assessment of the child s communication, motor, and thinking skills. Infants will have EEG/fNIRS. Infants who are at risk for developmental delays will come back for another visit when they are about 2 years old. This will repeat the infant visits but it will not include EEG/fNIRS. Some questionnaires and assessments will be videotaped.
+Detailed Description
+Objective: This investigation has two main objectives: 1) combine two child-friendly brain imaging techniques and stochastic modeling to determine the neural basis for the development of imitation and mimicry in human infants and 2) use machine learning to identify brain activation patterns that predict impairment in imitation and mimicry in infants at risk for social communication disorders. Study Population: This study will focus on two groups of infants. The first group includes 60 typically developing infants, who will complete the imitation and neuroimaging paradigm between the ages of 9-12 months (+/- 2 weeks) and again at 12 months of age (+/- 2 weeks). The second group includes 60 infants at increased risk for social communication disorders, including those with motor delay, language delay, preterm birth, or a sibling with an autism spectrum disorder. These infants will complete the imitation and neuroimaging paradigm at 12 months of age (+/- 1 month) as well as a follow up evaluation of social communication skills and developmental status at 24 months of age (+/- 1 month). Design: We propose to conduct longitudinal studies of changes in EEG and fNIRS correlates of mirror neuron network activity in typical development and infants at risk for social communication delay. We will measure both EEG mu suppression and hemodynamic change over the motor cortex during an established infant action/observation paradigm. At all study visits, infants will also complete developmental assessments that measure abilities in cognitive, motor, language, and social domains. Outcome measures: Both neuroimaging measures and developmental status will serve as outcomes for this study. For the typically developing infants, change in the neuroimaging metrics (i.e., percent mu suppression, percent oxyhemoglobin change) will be used to characterize development of the mirror neuron system, while the relation between neuroimaging variables, their trajectories, and developmental ability will be used to develop hypotheses about the role of the mirror neuron network in development of social communication skills. For the infants at risk for social communication disorders, the main outcome will be developmental status, with neuroimaging metrics used as predictors.
+ER  - 
+
+TY  - GEN
+M3  - Clinical Trial
+Y1  - 2016
+JF  - clinicaltrials.gov
+JO  - clinicaltrials.gov
+UR  - https://www.embase.com/search/results?subaction=viewrecord&id=LNCT02811627&from=export
+U2  - LNCT02811627
+U3  - 2025-05-29
+U4  - 2025-05-29
+L2  - https://clinicaltrials.gov/study/NCT02811627
+T1  - Predicting Treatment Response to Memantine in Autism Spectrum Disorder Using MR Spectroscopy
+LA  - English
+KW  - 4 aminobutyric acid B receptor stimulating agent
+KW  - 4 aminobutyric acid
+KW  - creatine phosphate
+KW  - n acetylaspartic acid
+KW  - creatine
+KW  - arbaclofen
+KW  - n methyl dextro aspartic acid receptor
+KW  - risperidone
+KW  - riluzole
+KW  - n methyl dextro aspartic acid receptor blocking agent
+KW  - choline
+KW  - memantine
+KW  - biological marker
+KW  - aripiprazole
+KW  - glutamic acid
+KW  - inositol
+KW  - individualization
+KW  - patient comfort
+KW  - autism
+KW  - Alzheimer disease
+KW  - amyotrophic lateral sclerosis
+KW  - lethargy
+KW  - compulsion
+KW  - treatment response
+KW  - irritability
+KW  - clinical trial
+KW  - psychosocial withdrawal
+KW  - dorsolateral prefrontal cortex
+KW  - functional connectivity
+KW  - brain tissue
+KW  - phenotype
+KW  - cerebellum
+KW  - limbic system
+KW  - locomotion
+KW  - brain region
+KW  - nerve cell network
+KW  - anterior cingulate
+KW  - Clinical Global Impression scale
+KW  - antagonistic effect
+KW  - nuclear magnetic resonance spectroscopy
+KW  - nuclear magnetic resonance imaging
+KW  - aberrant behavior checklist
+KW  - predictive value
+KW  - prediction
+KW  - personalized medicine
+KW  - proton nuclear magnetic resonance
+KW  - clinical trial
+KW  - male
+KW  - human
+KW  - controlled study
+KW  - pilot study
+KW  - adult
+KW  - drug therapy
+N2  - Brief Summary
+Memantine, an N-methyl-D-aspartate receptor antagonist, has been explored as a possible therapeutic agent that reduces the excitatory (glutamate) - inhibitory (gamma amino-butyric acid, GABA) imbalance in autism pathology and improves social and communication deficits. While some studies have shown positive results, a large clinical trial failed to show benefit possibly because different subsets of autism responded differently to the treatment. The investigator proposes a pilot, exploratory, clinical follow-on study using proton magnetic resonance spectroscopy (1H-MRS) to determine whether baseline glutamate/GABA levels in certain regions of the brain may help predict treatment response to Memantine in autistic subjects. At study onset, subjects will be assessed on the behavioral scales such as the Aberrant Behavior Checklist and Clinical Global Impressions scale, followed by MRS imaging. Memantine treatment will be started post imaging. Assessment measures will be repeated at week 12 during treatment. Glutamate and GABA levels in brain regions will be correlated to improvements on assessment measures. Expected results include higher glutamate and/or lower GABA levels in the anterior cingulate cortex at baseline in responders to memantine. If the hypotheses are confirmed, it will provide evidence of a relevant neural biomarker to predict treatment response to memantine with important implications for clinical care including improving individualization of treatments.
+Detailed Description
+Background and Rationale Autism Spectrum Disorder (ASD) is a behaviorally defined complex neurodevelopmental disorder characterized by early childhood onset of marked deficiencies in social and communication skills and presence of restrictive, repetitive behaviors. Its phenotypic heterogeneity makes studying ASD and its treatment a challenging task. Currently, only two FDA approved drugs, risperidone and aripiprazole, are available to treat ASD that manage irritability associated with the disorder. None have shown conclusive benefit for core features of social and communication deficits. Research indicates that a disrupted balance between excitation (glutamate) and inhibition (gamma amino-butyric acid, GABA) is likely to be one of the underlying mechanisms of ASD. This hypothesis is supported by a number of magnetic resonance spectroscopy studies that report an excess of glutamatergic excitation and/or a reduction in GABAergic inhibition observed in different brain regions including the limbic system and the anterior cingulate cortex. Similar findings have also been reported in post mortem studies of the ASD brain.Thus, it is expected that drugs targeting this imbalance could be beneficial. For example, the GABAB agonist, arbaclofen, was tested in ASD for this reason and showed promising results but a large trial failed to show improvement on the primary endpoints of lethargy and social withdrawal. Memantine, a moderate affinity N-methyl-D-aspartate (NMDA) receptor antagonist, is known to improve communication in patients with Alzheimer's disease and is an FDA approved treatment for that disease. Examination of the efficacy of memantine in treating ASD has also been driven by the excitatory (glutamate) - inhibitory (gamma amino-butyric acid, GABA) imbalance hypothesis of ASD pathology. Memantine binds to the glutamatergic NMDA receptors and attenuates glutamatergic excitation. This reduction in excessive glutamatergic activation is thought to decrease the "noise" in the neural network system and facilitate learning and memory. A few small studies have shown effectiveness for memantine in the treatment of social and communication aspects of ASD spectrum disorder (ASD) as well. However, one large clinical trial using memantine in ASD reported a failure to respond. These discrepancies in results could possibly be due to the heterogeneity in the excitatory-inhibitory imbalance between ASD patients thereby causing a variation in response. In such a scenario, having a biomarker to predict an individual's treatment response would be invaluable. MR Spectroscopy is a non-invasive tool used to examine the biochemical profile of brain tissue associated with different psychiatric and neurological conditions including ASD. Specifically, 1H-MRS studies in ASD demonstrated the excitatory-inhibitory imbalance in various cortical and subcortical regions of the brain, a finding also reported in post mortem brain tissue studies. The use of this technique to determine if Glutamate/GABA concentrations in certain regions of the brain can predict response to treatment with memantine would be an innovative breakthrough in providing more effective individualized treatment for patients since very little research has been done to explore this possibility. A similar approach has been adopted in a recent ongoing study that uses proton MR spectroscopy to map changes in glutamate and GABA following use of riluzole in ASD. Riluzole is a drug commonly used in amyotrophic lateral sclerosis (ALS) and is a glutamate antagonist that works by blocking presynaptic glutamate release and noncompetitive inhibition of NMDA receptors. However, riluzole is not clinically used in the treatment of ASD. To our knowledge, only one study so far (apart from the ongoing study mentioned) has examined the effects of riluzole in ASD, but as an adjunct to risperidone. The primary outcomes of the Ghaleiha et al. study were irritability and repetitive motor behaviors and not core social and communication deficits as in the present proposal. The purpose of riluzole in this MR spectroscopy study is a proof of principle for its effects on spectroscopy based on its glutamate antagonistic effects. By contrast, memantine, which will be studied in the present proposal, has some documented evidence from small studies of being beneficial in treating social and communication deficits associated with ASD in clinical settings, despite the failure of the larger trial. The investigator's lab has previously utilized MR spectroscopy techniques to map these different compounds in a group of 14 subjects with ASD and identify glutamate and GABA alterations in the cerebellum, discovering a relationship to cerebrocerebellar connectivity and behavioral outcomes in individuals with ASD. Specific Aims: Specific Aim 1: The investigator proposes a pilot, exploratory, clinical follow-on study using proton magnetic resonance spectroscopy (1H-MRS) to examine whether the following measures can be used to predict treatment response to memantine in ASD: 1. Glx and/or GABA and the Glx/GABA ratio in the anterior cingulate cortex, 2. Glx levels in the dorsolateral prefrontal cortex and the cerebellum 3. Markers of neuronal integrity, N-acetyl aspartate (NAA), myo-inositol, choline and creatine/phosphocreatine levels in the anterior cingulate, dorsolateral prefrontal cortex and cerebellum Specific Aim 2: To examine whether resting state functional connectivity between the dorsolateral prefrontal cortex, anterior cingulate and the cerebellum, holds predictive value for treatment response to memantine in ASD. The anterior cingulate cortex, dorsolateral prefrontal cortex and the cerebellum have been have been chosen as regions of interest (ROIs) due to known atypical glutamate and GABAergic profiles in these regions associated with ASD. The approach of limiting to selected ROIs has been adopted in order to ensure patient comfort during the imaging process by reducing the time spent in the scanner. Since altered levels for markers of neuronal integrity, such as NAA, choline, creatine/phosphocreatine and myoinositol have also been reported in ASD, we will be mapping these biochemicals as well in order to explore their effect on treatment response. Resting state functional connectivity will also be analyzed for possible association with treatment outcome prediction since as mentioned before, a previous study from the investigator's has shown a link between alterations in resting state cerebrocerebellar connectivity, excitatory-inhibitory ratio in the cerebellum and behavioral outcome in ASD using MR spectroscopy.
+ER  - 
+
+TY  - JOUR
+M3  - Conference Abstract
+Y1  - 2016
+VL  - 166
+IS  - 11-12
+SP  - 376
+EP  - 377
+SN  - 1563-258X
+JF  - Wiener Medizinische Wochenschrift
+JO  - Wien. Med. Wochenschr.
+UR  - https://www.embase.com/search/results?subaction=viewrecord&id=L620700910&from=export
+U2  - L620700910
+DB  - Embase
+U4  - 2018-02-20
+L2  - http://dx.doi.org/10.1007/s10354-016-0489-3
+DO  - 10.1007/s10354-016-0489-3
+A1  - Zoghbi, H.Y.
+M1  - (Zoghbi H.Y.) Howard Hughes Medical Institute, Baylor College of Medicine, Texas Children's Hospital, United States
+AD  - H.Y. Zoghbi, Howard Hughes Medical Institute, Baylor College of Medicine, Texas Children's Hospital, United States
+T1  - Rett syndrome: A winding path from clinic to bench and back to the clinic
+LA  - English
+KW  - basic helix loop helix transcription factor
+KW  - endogenous compound
+KW  - methyl CpG binding protein 2
+KW  - mutant protein
+KW  - neurotransmitter
+KW  - polyglutamine
+KW  - allele
+KW  - animal cell
+KW  - animal experiment
+KW  - animal model
+KW  - autism
+KW  - bipolar disorder
+KW  - bird
+KW  - brain cell
+KW  - brain depth stimulation
+KW  - breathing
+KW  - cerebral palsy
+KW  - cognitive defect
+KW  - college
+KW  - communication skill
+KW  - conference abstract
+KW  - congenital malformation
+KW  - developmental biology
+KW  - diagnosis
+KW  - disease course
+KW  - drug combination
+KW  - female
+KW  - fruit
+KW  - gene editing
+KW  - gene expression
+KW  - gene therapy
+KW  - genetically engineered mouse strain
+KW  - girl
+KW  - head
+KW  - human genetics
+KW  - learning
+KW  - loss of function mutation
+KW  - male
+KW  - Maryland
+KW  - medical record
+KW  - medical society
+KW  - memory
+KW  - mouse
+KW  - nerve degeneration
+KW  - nervous system development
+KW  - neurologist
+KW  - neurology
+KW  - neuromodulation
+KW  - nonhuman
+KW  - pediatrics
+KW  - phenotype
+KW  - resident
+KW  - Rett syndrome
+KW  - schizophrenia
+KW  - scientist
+KW  - spinocerebellar degeneration
+KW  - Texas
+KW  - vestibule
+KW  - volunteer
+KW  - wild type
+N2  - Rett syndrome is a postnatal childhood neurological disorder that causes a broad range of severe neurological and behavioral disabilities. It is unusual in that its symptoms appear after a period of normal development and point to disturbances in most brain cells and regions. In 1999, the Zoghbi lab discovered the gene (MECP2) that causes Rett syndrome and before long it became clear that mutations in this same gene can also cause autism, bipolar disorder, and juvenile onset schizophrenia. The path from gene discovery to therapy, however, is not a straightforward one and requires deep understanding of the role of MeCP2 in the brain, and knowledge of the brain cells and networks that cause specifc symptoms. Trough the use of genetically-engineered mice, the Zoghbi lab learned that the brain is acutely sensitive to the levels of MeCP2 and that both decreases and increases in MeCP2 levels (or function) can lead to neurological and beahvioral features that are also observed in humans. Tey showed that the protein is needed throughout life to maintain normal neurological functions and that nor-malizing its levels can reverse disease-like features in a mouse model of the human MECP2 duplication syndome. Zoghbi and collaborators have been gradually pinpointing the neurons that mediate various neurological and psychiatric symptoms, and more recently uncovered circuit abnormalities in both the Rett and duplication mouse models. Building on this understanding of neural substrate-phenotype relationships, they showed that deep brain stimulation of a specifc neural network improved learning and memory in a Rett syndrome mouse model. Personal note on my relationship with Andreas Rett and the feld My relationship with Rett syndrome goes back to 1983 when I encountered a beautiful fve-year-old girl with Rett syndrome at Texas Children's Hospital. I was struck by her clinical history and the fact she had excellent early development up to two years of age when she then started to regress and lose communication skills. Her symptoms and disease course matched those of the individuals described in an article by Hagberg and colleagues (Annals of Neurology, 1983). I was a neurology resident at the time and saw the young girl with two faculty members, Dr. Vincent Riccardi (a geneticist) and Dr. Alan Percy (a child neurologist). The girl's course of normal development followed by regression in the absence of neurodegeneration, together with the constant hand-wringing, left an indelible impression on me. A week later I was in the Blue Bird Circle Clinic where, as residents, we get to choose the type of patient we wish to see, so I chose a girl with the diagnosis of cerebral palsy. When that 12-year-old girl walked into my clinic ofce wringing her hands, I immediately recognized the other Rett sydnrome features. Seeing two girls with Rett in one week (when no U. S. physician had yet published on the syndrome) struck me as unusual and convinced me that there must be more. Indeed, working with the clinic volunteers, I canvassed medical records and found a handful of additional patients varying in age from two years to teenagers. To this day, I am thankful for the serendipidity of seeing two girls in one week as it was this, followed by discovering more within a short period of time, that imprinted the clinical picture of Rett syndrome in my head and inspired me to work on this disorder. Having seen and studied these patients together with the attending faculty and collaborators (Drs. Riccardi, Percy, Glaze, and Butler) I had the fortune to be invited to the International Rett conferences where I frst met Dr. Andreas Rett. Perhaps the most treasured experience I had was watching him examine dozens of girls at the frst U. S. conference in Baltimore. He was attending to every girl, carefully documenting her history, and evaluating her activities and behavior. He was gentle, caring, and curious. Following that we had additional encounters both in Vienna and in the U. S., and I was always touched by his gentleness approaching the girls and his dedication sitting on the foor to patiently watch them and learn from them. As for me, I continued to see the girls while completing my residency, but I felt compelled to determine how such a disorder comes about in the hope that one day we could do something to help the girls. I was driven to pursue Rett through research because I was intrigued by three facts: 1) that the syndrome appeared after a period of apparently normal development; 2) that the symptoms developed in a certain sequence and involved most brain functions; and 3) that afected individuals were predominantly girls. The latter was a clue that a genetic defect was likely the root cause of this sporadic, yet clinically distinct, disorder. Troughout the years while searching for the gene, I would meet Andreas Rett at conferences and we would have a chat about progress and the nuances of the clincal features of the disorder. He was extremely kind and encouraging, despite the fact that my quest for the gene was not yet bearing fruit. Toughts on where the feld might be moving We have learned a lot since the discovery of the Rett sydrome gene 15 years ago. Many of the research fndings give me hope that the future will bring efective therapies to those afected with Rett syndrome (loss of MeCP2 function) and with the MECP2 duplication syndrome (gain of MeCP2 function). While learning that MeCP2 itself is the best target to restore brain function given its broad efects and discovering that its levels have to be just right to have normal neurological functions poses some challenges, I do believe many discoveries provide opportunities for developing and testing therapies. First, learning that MECP2 disorders are reversible in animal models provides hope that when efective therapies are developed many or at least some of the symptoms might be subdued or supressed. Second, discovering that alterations in various neurotransmitter systems might provide a pathway for therapeutics is promising, even if combination therapy has to be implemented to boost multiple systems. Tird, the fact that the Rett brain is receptive to neuro-modulation (at least in mouse models) opens up the possibility of targeting various symptoms using such approaches. Fourth, genetic screens to identify suppressors of Rett-like phenotypes or modulators of MeCP2 levels and activities provide opportunities for potential new therapeutics. Lastly, approaches specif-cally targeting MeCP2 through gene therapy, genome editing, or regulation of expression of the wild-type allele, will become more viable with advances in technology and safety. Huda Zoghbi, MD (Fig. 1.16), is Professor of Pediatrics, Neurology, Neuroscience, and Molecular and Human Genetics at Baylor College of Medicine and serves as an Investigator with the Howard Hughes Medical Institute. She is also the founding Director of the Jan and Dan Duncan Neurological Research Institute at Texas Children's Hospital. Dr. Zoghbi's interests range from neurodevelopment to neurodegeneration. Her discovery that Spinocerebellar Ataxia type 1 is caused by expansion of a polyglutamine tract and that such expansion leads to accumulation of the mutant protein in neurons has had profound ramifcations since many late-onset neurological disorders involve similar accumulations of disease-driving proteins. Zoghbi's work in neurodevelopment led to the discovery of the gene Math1/Atoh1 and to showing that it governs the development of several components of the pro-prioceptive, balance, hearing, vestibular, and breathing pathways. Zoghbi's group also discovered that mutations in MECP2 cause the neurological disorder Rett syndrome. We now know that mutations in this gene are responsible for a broad spectrum of disorders ranging from mild cognitive disabilities to autism. Her lab is focused on understanding how loss of MeCP2 alters neuronal function to cause behavioral abnormalities. Zoghbi trained many scientists and physician-scientists and is a member of several professional organizations and boards. Among Dr. Zoghbi's honors are the Gruber Prize in Neuroscience, the Pearl Meister Greengard Prize from Rockefeller University, the Scol-nick Prize from MIT, and the March of Dimes Prize in Developmental Biology. In 2000 she was elected to the Institute of Medicine, and in 2004 she was elected to the National Academy of Sciences.
+ER  - 
+
