@@ -3,9 +3,11 @@ import requests
 from bs4 import BeautifulSoup
 import time
 import re
+import os
 
-INPUT_CSV = "input.csv"
-OUTPUT_BIB = "output.bib"
+BASE_DIR = os.path.dirname(os.path.abspath(__file__))
+INPUT_CSV = os.path.join(BASE_DIR, "input.csv")
+OUTPUT_BIB = os.path.join(BASE_DIR, "output.bib")
 
 HEADERS = {
     "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120 Safari/537.36"
